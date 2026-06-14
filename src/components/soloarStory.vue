@@ -1,0 +1,2025 @@
+<template>
+  <body class="story-page-bg3">
+    <div class="chapter-container">
+      <router-link to="/" class="btn btn-outline-warning mb-4"
+        >&larr; Back to Library</router-link>
+
+      <h1 class="text-warning text-center display-3 fw-bold mb-5">
+        SOLAR SNOOKS
+      </h1>
+
+      <div class="card nav-card p-4 mb-5">
+        <h4 class="text-warning mb-3"></h4>
+        <div class="row">
+          <div class="col-md-4">
+            <a href="#ch1" class="chapter-link">
+              Chapter One: Sarglop’s Thick & Slurpy Ramen Noodles</a
+            >
+            <a href="#ch2" class="chapter-link"
+              >Chapter Two: Argall’s Unbreakable Fogelmite Locks</a
+            >
+            <a href="#ch3" class="chapter-link"
+              >Chapter Three: X-RING Glasses</a
+            >
+            <a href="#ch4" class="chapter-link"
+              >Chapter Four: The Amazing Warp-Port Challenge</a
+            >
+            <a href="#ch5" class="chapter-link"
+              >Chapter Five: Fellswig Robot Slippers</a
+            >
+          </div>
+          <div class="col-md-4">
+            <a href="#ch6" class="chapter-link"
+              >Chapter Six: Rick’s Earth Parts Emporium</a
+            >
+            <a href="#ch7" class="chapter-link"
+              >Chapter Seven: Saturn Cocoa Bars</a
+            >
+            <a href="#ch8" class="chapter-link"
+              >Chapter Eight: Ronald Elastic’s Goo-Be-Goon</a
+            >
+            <a href="#ch9" class="chapter-link"
+              >Chapter Nine: Bar-Bar Wrenches</a
+            >
+            <a href="#ch10" class="chapter-link"
+              >Chapter 10: Marloptic Ear Plugs and X-10 Elucidator Monitors</a
+            >
+          </div>
+          <div class="col-md-4">
+            <a href="#ch11" class="chapter-link"
+              >Chapter 11: Star Vibes Dance-Training Headphones</a
+            >
+            <a href="#ch12" class="chapter-link"
+              >Chapter 12: Green Gilly’s Whisper Noodles</a
+            >
+            <a href="#ch13" class="chapter-link"
+              >Chapter 13: Cosmovision 818 Series Holograms</a
+            >
+            <a href="#ch14" class="chapter-link"
+              >Chapter 14: Rex-Flex Universal Translator</a
+            >
+            <a href="#ch15" class="chapter-link"
+              >Chapter 15: Fellswig Robot Slippers</a
+            >
+            <a href="#ch15" class="chapter-link"
+              >Chapter 16: Ulrite Mechanical Clocks</a
+            >
+            <a href="#ch15" class="chapter-link"
+              >Chapter 17: (Non-Sponsored Chapter)</a
+            >
+            <a href="#ch15" class="chapter-link"
+              >Chapter 18: Aderan’s Eddingburgton Market
+            </a>
+            <a href="#ch15" class="chapter-link"
+              >Chapter 19: Edder’s Eco-Kit World-In-A-Box
+            </a>
+            <a href="#ch15" class="chapter-link">Chapter 20: Tipta Tea </a>
+            <a href="#ch15" class="chapter-link"
+              >Chapter 21: Defacto Placto Misleed Wigs</a
+            >
+          </div>
+        </div>
+      </div>
+
+      <div class="story-content">
+        <section id="ch1" class="story-section">
+          <h3>Chapter One: Daydreams</h3>
+          <p>
+            I was sitting in class when I first saw it. Miss Weaver had been my
+            teacher for a few months, and was known around Stagwood Elementary
+            for the stack of black hair that rose a foot above her head. Before
+            the school year started, I’d heard a few rumors about her, and
+            within a week I realized that they were all true. For one thing, she
+            did, in fact, wear the same outfit every day; the colors changed,
+            but she always had on striped pants and a striped jacket. For
+            another thing, she was mind-numbingly boring. It was the kind of
+            boring that made your eyes shut without permission. The biggest
+            problem, though, was the stories. She was obsessed with tales of
+            former students who had become some kind of famous. The first couple
+            of times weren’t bad, maybe even kind of interesting. But, by the
+            second week of school she had started repeating herself, just like
+            her outfits. By then, I knew all the stories by heart. The
+            professional football player who got excellent marks in Math. The
+            State Senator who was a teacher’s pet. I knew every word. So,
+            instead of trying my hardest to listen, I spent most of class
+            drawing in my notebook. Most days, I drew imaginary places and then
+            spent the rest of the time whipped up creatures to live there.
+            They’d have horns where horns don’t go, fur where scales should be,
+            and all the wings. They were odd. And they each had a story that I
+            wanted to tell. But, on that day, I never even got to the first pair
+            of wings. I had barely gotten started when it appeared, and changed
+            Stagwood, and me, forever. If it had chosen to press its little
+            green face against any other window, I might not have seen it. And
+            if I hadn’t been trying to decide whether my dragon should have four
+            legs or two, I might not have looked out window at that exact
+            moment, dropping my pencil on the page. It was a frog. And it was
+            staring right at me. I couldn’t stop looking at the frog and it
+            couldn’t stop looking back. We were locked in a staring contest.
+            Maybe some frogs blinked, but with its eyes smushed against the
+            glass, this one didn’t. Stagwood Forest was just beyond the
+            schoolyard and it was riddled with frogs, but they always avoided
+            people. I knew right away, in a way that I could think better than I
+            could say, that this frog was different. I tried to listen back in
+            to Miss Weaver, just in time to hear the end of her story about
+            Martin Shandals, the now-famous comedian. Martin had transferred
+            schools half way through the year, so I always felt to me like that
+            one shouldn’t count. We were supposed to be learning long division,
+            but something had reminded her of Martin. I knew exactly what bad
+            joke she would end the story with, but much less about long
+            division. “Whenever he acted up in class I’d say, ‘we’ve got a real
+            comedian on our hands don’t we?’ And I was right!” she said with a
+            guffaw. I was certain that Miss Weaver would see the frog within
+            moments, but I was wrong. Nobody did. More importantly, when I
+            looked again to see if it was still there, I noticed something new.
+            Something shiny. And when I realized what it was, I forgot all about
+            class, and Miss Weaver, and Martin Shandals. There was no denying
+            it: the frog had put on a tiny pair of glasses. I wanted to lecture
+            it, to explain that frogs don’t wear glasses. It bothered me that it
+            didn’t already know that. On top of that, it had been staring at me
+            for at least five minutes by then. And that seemed to be bordering
+            on rude. Could a frog even be rude? I wasn’t sure. But, the bigger
+            question was why it was so interested in me. I wasn't the type of
+            kid who got attention. Teachers always wrote “needs to participate
+            more” on my report cards (with a smiley face to make my parents feel
+            better). I never got into trouble and barely ever stood out on
+            purpose. A few years earlier, I accidentally peed my pants because
+            my zipper had gotten stuck in the bathroom at the last moment. I
+            tried to convince everyone that I had fallen into a puddle at
+            recess. The custodian, Mr. Salazar, charged outside with a mop and
+            brought me with him to point out the puddle. My guess is that we
+            wasted a half-hour looking around at the dry gravel. Luckily, my mom
+            dropped off some new clothes and nobody really noticed my wardrobe
+            change (…or that it hadn’t rained in weeks). That’s how it was.
+            Whether I did something spectacular or sneezed myself out of a
+            chair, nobody cared, and almost nobody said my name. As far as
+            school was concerned, all those things had happened to “some kid”.
+            So, why would a frog with glasses jump up on a windowsill to stare
+            at "some kid"? Teachers, on the other hand, were a different story.
+            Once her lesson started back up, it didn’t take Miss Weaver long to
+            realize that I wasn’t paying attention. She called me up to the
+            blackboard to make an example out of me. “Since you don’t feel the
+            need to listen, why don’t you solve a problem on the board instead?”
+            she said, sitting down at her desk. My stomach did a flip. Then it
+            did a flop. The problem would take a minute or two to solve, and
+            being in front of the class always made me nervous. How could I be
+            expected to do anything when there was a spectacled frog staring me
+            down? I walked to the right of the equation on the board so that I
+            could check on the frog easily in secret. Despite the distraction, I
+            did my best to focus. But, it wasn’t easy. Halfway through, I saw
+            the frog move towards the front of the classroom. It stopped at the
+            window next to Miss Weaver’s desk. It took me a moment to figure out
+            what it was doing, and another to believe it. It was trying to lift
+            the window! Finishing the problem became almost impossible. I made a
+            mistake and then quickly erased it. By the time I looked over again,
+            the window was open. Why should that surprise me? Of course a frog
+            with glasses would also be super strong. The window was only open an
+            inch, but that was enough for it to slip through. I dropped the
+            chalk, and some of my classmates laughed. Bending down to pick it
+            up, I tried convincing myself that when I stood back up again the
+            frog would be gone. “It’s not there. I just think it’s there.” When
+            I straightened up, the frog was sitting on Miss Weaver’s left
+            shoulder. This was a brave frog. Her head blocked the class from
+            seeing it, and I realized that I was still the only one who could.
+            Either the frog was real or my imagination had outdone itself. It
+            wasn’t all that surprising that Miss Weaver didn’t feel it there,
+            because the shoulder pads inside her orange striped jacket were
+            large and fluffy. I had heard that she rested her head on them like
+            pillows during her breaks. I tried to remind myself of the
+            situation. There was a frog sitting on Miss Weaver’s shoulder and
+            nobody else knew it. And I was supposed to be doing math. Now that
+            it was closer, I could see the frog better. It didn’t look like some
+            new species of frog to me. It looked like every other frog I had
+            seen (except for the glasses). I wondered if they made contact
+            lenses small enough for a frog. But, it wasn’t the right time to
+            worry about frog vision- that would be a job for a frog eye doctor,
+            anyway. I had daydreams all the time when I was drawing, and
+            sometimes I got lost in them. It really was possible, I thought,
+            that my imagination had just carried me off. I tried one last time
+            to explain the frog away as part of an impressive daydream. I
+            concentrated hard, finished the problem, and put the chalk down. The
+            frog couldn’t be real. I shook my head confidently. When I turned to
+            Miss Weaver, I saw the frog look me square in the eyes and nod. A
+            moment later, it disappeared into Miss Weaver’s hair.
+          </p>
+        </section>
+        <section id="ch2" class="story-section">
+          <h3>Chapter Two: Soy</h3>
+          <p>
+            I didn’t see the frog for the rest of the day. Maybe it stayed in
+            Miss Weaver’s hair or maybe it jumped back through the window when I
+            wasn’t looking. All day long, I expected her to find it and let out
+            a scream, but she never did. When the bell rang, I ran out of the
+            school onto the side of the grass that had the most bushes. I had
+            seen frogs hide in there before, but there was no sign of any.
+            Truthfully, I wouldn’t have known what to do with the frog if I had
+            found it. Would I capture it? Would I ask it questions? If I was
+            caught talking to a frog outside the school, I think people might
+            finally start to remember me, but in a #donttalktothefrogkid kind of
+            way. I liked most of the kids in my class just fine, but I was only
+            really close with one. His name was Soy, and he was definitely,
+            without a doubt, my best friend. Soy had kind of reddish-blond hair
+            and a round face. He and I had been friends since preschool, and I
+            knew that I could talk to him about anything. The downside to that
+            was that he also felt he could talk to me about anything. Since he
+            had eight older brothers and two older sisters, his questions were
+            always about things that I didn’t understand and didn’t want to.
+            Here’s how it would usually go: Soy’s brothers would talk about
+            older kids things, and then make fun of him for not getting it. He
+            would ask me about it, and we’d look it up. It only took a few
+            Google searches for me to get banned from using the Internet with
+            Soy. The bottom line was that if I was going to tell anyone about
+            the frog, it would be Soy. I decided that our walk home would be the
+            best chance. “Did you see anything outside today during math?” I
+            asked Soy as we started walking. “What do you mean? On the grass?”
+            he asked, jumping over cracks in the sidewalk. “I mean right outside
+            the window. Like right up against it,” I answered. “Like a person?”
+            he asked, still hopping. Soy sat in the row farthest from the
+            window, so it would’ve been possible, but still weird, for someone
+            to walk by without him noticing. “No. It’s more like… I saw a frog
+            up against the window," I explained. “Awesome,” he said. “Yeah, but
+            it wasn’t a normal frog. It opened the window and it came in the
+            classroom and jumped on Miss Weaver’s shoulder and it jumped inside
+            her hair,” I spit out. Soy stopped jumping and looked at me. “That
+            happened… today?” he asked. “Yeah, I mean I’m pretty sure. And when
+            I thought I might be making it up, the frog nodded at me,” I said.
+            Soy looked confused. I thought I heard something move in the tree
+            above us, but Soy answered before I could look. “It nodded at you? I
+            don’t even think frogs have necks, do they?” said Soy. “This one
+            did, I guess. I mean most frogs don’t wear glasses either, but it
+            had those too,” I explained. All of a sudden, Soy seemed a couple
+            steps further away. “The frog was wearing glasses?” he asked
+            suspiciously. “Yes,” I shot back. “Why would someone go around
+            putting glasses on frogs?” he asked. "I dunno… maybe it bought them
+            on its own,” I replied. Soy was standing at least ten steps away
+            now. “Right… Well, maybe Miss Weaver will let us look in her hair
+            tomorrow, and we can ask the frog where it got ‘em… So, I think I’m
+            just gonna head back home today instead of coming over. My mom has
+            lots of stuff for me to do. See you later!” Soy said, turning to run
+            away. “Soy!” I yelled. “Stop right there. I can prove the frog is
+            real.” “Oh yeah? How?” he asked with an eye roll. “It’s sitting on
+            your backpack,” I said.
+          </p>
+        </section>
+        <section id="ch3" class="story-section">
+          <h3>Chapter Three: The Treehouse</h3>
+          <p>
+            Soy had the frog in his hands within seconds. He was always good
+            with outdoorsy stuff like that. His mom was usually busy with his
+            siblings, so Soy was left to play outside a lot. By third grade, he
+            had caught a pet turtle, salamander, and flying squirrel.
+            Unfortunately, his older brothers Rick and Hank stole the squirrel
+            and kept it in their room. Once a week they played a game where Rick
+            threw the squirrel from the second story window, and Hank caught it
+            midair with a trash can as it glided down. Soy tried to get them to
+            stop, but they never listened. It wasn’t until a particularly windy
+            fall day that he caught a gust and flew over their heads to freedom.
+            The frog didn’t put up much of a fight. I started to wonder if it
+            actually wanted to be caught. “Do you believe me now?” I asked. Soy
+            peaked inside his hands, and then lifted his head with wide eyes.
+            "Well… this frog is wearing glasses. I’ll give you that.” Both of
+            our minds were racing with questions. “Let’s bring it to my
+            treehouse, so we can figure this out,” I said. I had built most of
+            the treehouse in my backyard myself. My mom and dad insisted on one
+            of them being there when I used certain tools, but that was about
+            it. Building things always made me feel good afterwards, and I had
+            gotten pretty good at it. The treehouse had been done for a while,
+            but there were still a few things I wanted to add to it before
+            winter. When we got there, I told Soy to use the elevator. It was
+            really just a rope with a weighted pulley system, but I called it
+            the elevator anyway. We used it when we needed to carry things that
+            we couldn’t bring up on the ladder. I climbed up and then lowered it
+            down for him. All those years of critter-handling had paid off, and
+            he got it inside the treehouse without any problem. I shut the door
+            and quadruple-locked it, so that the frog couldn’t run away (and
+            also to give us some privacy). “Okay, Soy,” I said, "let him loose."
+            Soy lowered his hands and opened them, letting the frog hop to the
+            floor of the treehouse. I had a small drafting table, drawings, and
+            bits of wood all over, which provided plenty of places for the frog
+            to hide. Luckily for us, it didn’t move at all. Instead it looked up
+            at me, and in a loud voice said, “What do you mean, ‘him’?” Soy fell
+            backwards from a crouch onto his rear. The frog was looking right at
+            me, waiting for an answer, but all I could do was shake my head.
+            "It’s rude to assume I’m a ‘he’, don’t you think? I happen to be a
+            girl,” said the frog proudly. Soy was now holding his head with both
+            hands. “It can talk!!” he said in disbelief. "Calling me an ‘it’,
+            after I just told you I was a girl, is just plain inconsiderate,
+            Soy!” she insisted. I knelt down closer, looking for anything that
+            might make sense of it all. Maybe the frog was a robot? But nothing
+            about the way it moved was robotic. And would a “Made in China”
+            sticker really make me feel better? It… she… had just called my best
+            friend by his first name! Soy was so flabbergasted that he was
+            gnawing on his backpack strap, so I doubted that they had met
+            before. “I’m sorry,” I said to the frog, kneeling down, “we didn’t
+            mean anything by it. Truly.” The frog hopped even closer and said,
+            “You’ve always been kind.” Then she whispered, “It’s a powerful
+            thing. Remember that.” “I will,” I said, amazed that I had just gone
+            from meeting a talking frog to taking advice from a talking frog in
+            a matter of seconds. “But, um, if you don’t mind me asking, how is
+            it that you can talk?” I said. By that point Soy had half of the
+            backpack strap in his mouth. The frog crooked her head at me
+            slightly. “Do you think that humans are the only animals that can
+            talk?” she asked. I was startled. Was it possible that animals could
+            talk, and somehow no one in the world knew about it? Was everything
+            that I thought about animals wrong? I took a seat on the floor, too.
+            Soy spit out his strap. "That’s not okay,” he said. “I tell my pet
+            iguana all of my secrets. If he can talk, I need to know who he’s
+            been talking to.” The frog gave out a little laugh, then she said,
+            “Oh, I’m just kidding. Animals can’t talk any more than humans can
+            flap their arms and fly.” I was embarrassed, but mostly relieved.
+            “What about some kind of iguana sign language?” asked Soy, still
+            nervous. Ignoring Soy's question, I asked the frog, “How is it that
+            you can? Talk, I mean." “For starters, I’m not a frog,” she
+            explained. “The only reason that I—” Without any warning, there was
+            a knock on my treehouse door. “What are you up to in there? Why is
+            this door closed?” asked my mom sternly. I searched my brain for an
+            answer that didn’t have the word frog in it. “Soy and I were, um, we
+            were doing homework, and the breeze kept blowing our papers away." I
+            replied. “He’s a clever one” the frog whispered to Soy. I gave the
+            frog a signal to be quiet. It may have been the first time in the
+            history of the world that one had spoken, but for the time being,
+            she needed to stop. If my mom heard a girl’s voice, I was worried
+            she might break through the door again. She had a habit of doing
+            that any time something seemed suspicious. It was only a week before
+            that she had seen the smoke from one of Soy’s firecrackers and
+            broken through three locks. I added the fourth the next day, but it
+            was becoming clear to me that metal was no match for “mom strength”.
+            So, for the moment, I needed this frog’s vocabulary to shrink back
+            down to “ribbit”. “Well, come on inside the house. There’s a man
+            from the school board here who needs to speak with you.” She lowered
+            her voice and spoke softly into the crack of the door. “He looks
+            pretty official. He’s got a fancy suit and a shiny yellow bowtie.
+            Don’t worry though, he told me me you’ve done nothing wrong.”
+            “Yellow?!” screeched the frog. “What was that, honey?” “Oh… I said,
+            ‘Hello!’” I lied, using the best high-pitched voice I could muster.
+            “Honey, ‘Hello’ usually comes at the beginning of conversations.
+            We’re pretty far into this one,” she answered. “Ah, right. I just
+            sometimes forget when you’re supposed to say it,” I replied
+            nervously. “Oh… I didn’t realize. Maybe we can work on that,
+            sweetie,” she said, closer to the door than ever. “Because that’s
+            definitely a problem. Just hurry up and come down, please.” I heard
+            my mom climb down the ladder, then watched her go back inside the
+            house through the sliding back door. The frog jumped up onto the
+            open treehouse window in a panic. I was amazed at how high she could
+            jump, and knew at that moment that she could have left any time that
+            she had wanted. “Whatever you do, don’t mention me,” the frog
+            whispered frantically. “I’ll find you later.” And with that, she
+            jumped out the window into a bush below.
+          </p>
+        </section>
+        <section id="ch4" class="story-section">
+          <h3>Chapter Four: Tiger Lilies</h3>
+          <p>
+            I sent Soy home and told him not to say a word until we could agree
+            on a plan. He was too frazzled to argue. Soy walked home along the
+            path behind my house that crossed the woods to his. I had no choice
+            but to head inside. When I slid the back door open, I saw my mom and
+            the man in the bowtie sitting in the living room. She sat smiling by
+            the fireplace, and he sat in the flowery love seat closest to the
+            front door, taking up most of it with his long skinny frame. His
+            tall legs were bent at sharp angles to both sides, just like his
+            elbows. My mom and the man were mid-conversation when I walked in. I
+            saw him notice me from the corner of his eye, but he kept speaking.
+            “They’re absolutely beautiful, Mrs. Caelum. I don’t believe I’ve
+            seen lilium bulbiferum that vibrant before” said the man as he
+            touched the lilies that were on the table between them. “Oh, you’re
+            too nice!” said my mom with a giggle. My mom wasn’t known for
+            giggling, but flowers were one of her most favorite things in the
+            world. She filled the house with them whenever she could. The most
+            that my dad would say about it was that fake flowers would probably
+            cost less. “Does your son have an appreciation for flowers as well?”
+            the man asked, finally turning to look at me. His blond hair was
+            pressed firmly against the top of his head, and his pale skin looked
+            almost wet. His grin was toothy… larger than it should be. I felt
+            uneasy. The talking frog had been surprising, odd even, but I
+            preferred it to him. “Ah, there you are! Come have a seat and say
+            hello to mister…,” my mother said, stopping for a moment. “What was
+            it again?” “Ream,” he finished. “And it’s a pleasure to meet you,
+            young man.” “Hello,” I said. “Well done,” my mom whispered happily
+            at hearing me place my ‘hello’ correctly. “Mr. Ream is from the
+            school board,” she projected, “and he’s here to…” Once again she
+            wasn’t sure how to finish her sentence. “I’m here to speak with you
+            about Miss Weaver’s class. We’ve begun an initiative where we, the
+            board members, speak directly with students to learn more about
+            their experiences in the school system. We’d like to have an open
+            dialogue between the administration and the children.” “I think
+            that’s just wonderful,” said my mom. She was smiling ear to ear,
+            looking for me to agree. I gave a nod, then waited for someone else
+            to speak. “Mrs. Caelum, we’ve found that students tend to be more
+            free and honest with their feelings when their parents can’t hear. I
+            assure you, I’ve been trained in creating an atmosphere where
+            students can speak their mind without fear of punishment,” said Mr.
+            Ream. “I see,” said my mom. She turned to me and spoke in her usual
+            kind voice. “I’m going to be right here in the kitchen if you need
+            anything, sweetie. Remember that you can be honest with Mr. Ream,
+            and nothing bad will happen. Okay?” I nodded. Mr. Ream followed my
+            mom with his eyes as she walked by him to the kitchen. She’d been
+            right about his suit. It was a dark blue and, from what I could
+            tell, was fancy and expensive. But his bowtie was what stood out. It
+            was a color yellow that I had never seen before, and I could see why
+            she had mentioned it too. As he moved, the light reflected off of it
+            in every direction. It didn’t move like clothes usually do. In fact,
+            it didn’t move at all. I also couldn’t help but notice that he was
+            taller than my mom, even when he was sitting down. When she left the
+            room he turned to me abruptly. “Has anything strange happened at
+            school in the past couple of days?” I shook my head hard and fast.
+            “You can tell me. I’m here to help,” he said in a friendly voice.
+            “You see, I didn’t tell your mom this because I didn’t want to worry
+            her…” Now Mr. Ream leaned in closer. His mouth looked larger by the
+            second. I was almost positive that he could eat a whole sandwich in
+            one bite. “There’s a...” he said, pausing, “person who has been
+            bothering students. Some little birdies told me that perhaps they’ve
+            been bothering you. ” Then he gave the largest smile I had ever
+            seen. Two sandwiches, at least. I knew, deep down, that he meant the
+            frog. That’s why she had acted so funny when she heard about his
+            bowtie. “Well, what does the person look like?” I asked shyly.
+            “That’s the tricky part,” he replied, “This... person likes to
+            disguise themselves in different ways. Ways that might even seem
+            impossible.” His mouth was only a foot away now. Three sandwiches
+            and a side of fries.. He continued, “They may even be disguised as
+            an animal." My eyes got wide. Mr. Ream’s got small. “You have seen
+            them!” Mr. Ream said, trying to hide his excitement. I shook my head
+            defensively. “I didn’t say that, you did." “But you have, haven’t
+            you,” he said sympathetically. “Tell me what happened. It’s for your
+            own safety.” I didn’t know what to believe. “What’s so dangerous
+            about her, anyway?” I asked. The moment I said it, I wished that I
+            could take it back. I wished that I could grab the words out of
+            mid-air and zip them right back into my mouth. But I knew that’s not
+            how words work. “‘Her?’” he said. I couldn’t look at him. He spoke
+            sharply in a whisper. “So, it’s true. She has come to see you. Tell
+            me why.” I shook my head. “Why did she choose to reveal herself to
+            you? Why you? Tell me!” he demanded. “It was nothing,” I answered
+            despite myself. “I was just...” “You were just? You were just what?”
+            he prodded. I was confused, but I knew beyond a doubt that I did not
+            want to tell him anything more. And I was not going to make the same
+            mistake twice. “I was just catching frogs in the woods with Soy and
+            we didn’t know it was a special frog and we caught it by accident, I
+            swear, and she begged us to let her go, so we did,” I said in one
+            breath. Mr. Ream sat back in his seat and listened to me ramble on.
+            “And she wanted nothing to do with us, and made us promise not to
+            tell anyone about her, and… am I in trouble?” I asked, pretending to
+            cry. I had learned how to fake cry the year before when I tried out
+            for a small part in the school play. As it turned out, the role of
+            “Weeping Willow” wasn’t even a speaking part. It’s just a tree. No
+            crying required. Still, after forty minutes of standing up on stage,
+            not being allowed to move, I cried a little anyway. “No,” he hissed,
+            “you’ve just disappointed me. I thought for a moment that you were
+            the…” My mom walked in smiling, with a vase in her hand. “Sorry to
+            interrupt but I thought you might enjoy seeing my latest- ” she
+            stopped inner tracks when she saw me. “What are you two talking
+            about in here?” “Oh, Mrs. Caelum, your son and I were just —,” Mr.
+            Ream sputtered. “Why is he crying??” my mom asked more forcefully.
+            She rushed to my side to console me. “It’s nothing,” Mr. Ream
+            pleaded, “sometimes these talks can be emotional, and if you
+            wouldn’t mind my asking just a few more questions…” The tears were
+            flowing more freely now. I had become the Weepiest Willow in the
+            world. “I would mind,” she said firmly, “and if you’d like to keep
+            your job, you’ll leave right now.” Mr. Ream straightened his jacket
+            and grabbed a briefcase from behind the couch. “Yes, of course.
+            Thanks for your time,” he said. He opened the door and turned to me.
+            “Be sure to let me know if your story changes,” he said with an
+            unfriendly glare. My mom put her arm around my shoulder. “Out!” she
+            shouted. I spent the rest of the night listening to my mom speak on
+            the phone with people from the school district. Apparently, Mr. Ream
+            was highly regarded, but my mom didn't care. She was beyond angry.
+            She yelled at some of the school people and even threatened to call
+            the police once. By bedtime she seemed a little calmer. Whatever Mr.
+            Ream wanted with that frog, it wasn’t good. I decided then and there
+            that I wasn’t going to let him get to her. The next morning my mom
+            gave me an extra long hug and apologized (for the tenth time) for
+            letting Mr. Ream into the house. I told her (for the tenth time)
+            that it was all right. Soy and I met in front of my house to walk to
+            school, as usual. I hadn’t spoken to him since the treehouse, but it
+            was immediately clear that he had gotten over his backpack-chewing
+            phase. “How do you think it learned to talk? She, I mean. How come
+            she could talk?” he asked. Without waiting for answer, he continued,
+            “And how did it know my name? She, I mean.” “I don’t know. Same as
+            you,” I said honestly. “What about the dude with the bowtie?” he
+            asked excitedly. “His name is Mr. Ream. Soy… he knew about her,” I
+            said. “About the frog?” Soy asked. “Yeah. He said that he was
+            looking for someone who could disguise themselves as an animal. She
+            was right to warn us. There was definitely something off about him.”
+            I said. “You didn’t tell him anything, right?” asked Soy. I looked
+            down at the ground. “I accidentally let on that I met her,” I
+            confessed. “You did what?” Soy said in shock. “I didn’t mean to. It
+            came out by accident. And then Mr. Ream grilled me on why she had
+            come to talk to me. Apparently, it’s a big deal that she did.” “So
+            what’d you do? Draw him a picture of it and tell him everything? Are
+            you recording this conversation for him right now? My brothers say
+            if you’re wearing a wire you have to tell me,” Soy said angrily.
+            “No. Quit being silly, Soy. I told Mr. Ream that we were catching
+            frogs, found her by accident, and let her go.” “Oh. Okay, that’s not
+            bad actually,” Soy said. “Thanks,” I said with my head still
+            hanging. “And if he looks into it at all, the story will check out
+            since I do love catching frogs. In fact, I should catch a few extra
+            this week, just to be safe. So… what now?” Soy asked. “I really
+            don’t know, but we need to find out why that frog’s here and why Mr.
+            Ream is after her,” I answered. “I’m in,” said Soy. “I’d take a frog
+            in glasses over a man in a bowtie any day.” It felt good to have Soy
+            on my side. “We’ll figure this out together,” he said, patting me on
+            the back. My smile faded as he continued to pat… He was checking for
+            a wire.
+          </p>
+        </section>
+        <section id="ch5" class="story-section">
+          <h3>Chapter Five: The Un-Tradable Lunch</h3>
+          <p>
+            The first half of the day was more normal than I expected. Miss
+            Weaver continued a Social Studies lesson and only stopped once for a
+            story. “The legislative branch of the government is important.
+            Probably the most important, if you ask me. It’s quite remarkable,
+            but a former student of mine is actually a State Senator now. One of
+            the youngest we’ve ever had! And since I was his favorite teacher, I
+            can ask him for favors. I don’t want to brag. I really hate to brag.
+            But I can tell you that he’s gotten me out of at least twenty
+            parking tickets,” she said with a proud laugh. I always wondered how
+            many parking tickets you could get before they stopped letting you
+            park. I didn’t know how to drive yet, but of all the things you had
+            to do, parking seemed the easiest. I had been too preoccupied to eat
+            breakfast. My mind had been racing with questions. So by lunchtime I
+            was starving. Soy and I sat together in the lunchroom everyday and
+            we usually didn’t care much about which spot. The lunchroom was long
+            and narrow with brightly colored green, blue, and orange tables.
+            With a secret subject to discuss, Soy and I decided to sit at the
+            far end of the longest blue table, as close to the corner as we
+            could get. There were twelve seats between us and any classmates,
+            which was good because Soy’s voice was known for being loud. After
+            our third grade spelling bee, it was agreed, for everyone’s sake,
+            that Soy would never be allowed to speak into a microphone again.
+            “So… how are we going to find the frog?” he asked, looking around.
+            “I don’t know. I’m not that good at finding regular frogs,” I
+            answered. “Well, I’ve been thinking. Frogs like flies, right?”
+            “Yes.” I started pulling my lunch out of my bag. “And they like
+            ponds?” Soy added. “Yes,” I said again. “Well, that’s something,” he
+            said. “That’s not a plan though, Soy,” I replied. “The rest is on
+            you! I spent all morning on that,” Soy shrieked. When I reached
+            inside my bag again, I stopped trying to think of a plan. To be
+            honest, my mom wasn’t the best at packing lunch. Every once in
+            awhile, she made one so bad that it was completely un-eatable and
+            un-tradable. Still, she had never given me anything slimy. Never
+            anything wet. And definitely never, ever anything that moved. There
+            was no doubt in mind: I was holding a frog. It had to be her. It was
+            the only thing that made sense. Then I reminded myself that none of
+            this truly made any sense. I tried not to panic, but I knew that I
+            had to warn Soy from across the table, without causing a scene. The
+            frog sat still, breathing in and out inside my hand. “Eets een my
+            beg,” I said through clenched teeth. “What did you say to me?” Soy
+            asked with an eyebrow raised. "I said, eeeets eeeenn my beg," I
+            repeated. “Huh? Who’s seen your pig?” “No, eeeeeets eeeeeen myyyy
+            begggg,” I said slowly. “Wait a second. Did you get a pig?” Soy
+            asked with his arms crossed. “If you really have a pig you better
+            let me ride it...” Soy was convinced that you could ride any animal
+            larger than a cat. Also, sometimes cats. My mom said Soy was the
+            reason we could never own any pets. “Soy,” I said, unclenching my
+            teeth, “put your hand in my bag.” I slid the bag over and watched
+            him stick his hand inside. His face changed immediately. “Ohhh,” he
+            exclaimed, “it’s in your bag!” The frog must have somehow understood
+            what was going on because she was still waiting patiently. “Let’s
+            bring it out and ask it some questions,” Soy said. The bag moved a
+            little bit. “She, I mean! Let’s bring her out!” he said too loudly.
+            “Shh, we don’t want anyone to hear,” I whispered, trying to think of
+            what to do next. Soy was eating make-your-own soft tacos that he'd
+            bought from the cafeteria. They were one of his favorite lunches. He
+            still had the ingredients for two more tacos, with the tortillas
+            waiting on the side. I had an idea, but he wasn’t going to be happy
+            with it. “Give me your tortillas,” I said. “What? Why?” he said,
+            shielding them with his arms. “Soy, I’m sorry… Im gonna need your
+            lunch.” “But… it’s soft taco day,” Soy replied sadly, “my third
+            favorite day of the month.” “Trust me,” I reassured him as he slowly
+            slid them over. I was sure that if it was “grilled cheese day” or
+            “pizza day”, I wouldn’t have been so lucky. In a flash, I used the
+            tortillas and our milk cartons to construct a small fort for the
+            frog. The opening faced me, so that only I could see inside. Gently,
+            I laid my lunch bag down nearby, showing the frog what I had built.
+            “Listen,” I whispered into the bag, “when I say so, jump out into
+            the fort. Okay?” There was no reply, but I was pretty sure that she
+            had heard. Soy and I checked the surroundings one more time, trying
+            to seem casual. The kids who were sitting closest to us had gotten
+            up to talk to the girls sitting two tables over. Soy looked left,
+            then right, and gave a nod. “Now,” I whispered. With a quick green
+            blur, the frog jumped from the bag to the taco-day-fort. When she
+            turned around, I saw her glasses. It was her. She spoke loud enough
+            for Soy and me to hear, but nobody else. “Are you all right?” she
+            said. “What did the man in the bowtie ask you? What did he do to
+            you?” “He didn’t do anything to me, but he did ask about you,” I
+            answered. “Ream has been on my tail for a while now,” she said,
+            testing the tortilla wall with her leg. “Frogs don’t have tails,”
+            said Soy. Nobody respond. But it did make me realize something. “We
+            don’t know anything about you. I don’t even know your name yet,” I
+            said. “You may call me Delilah, or Deli for short," she replied. Her
+            face got much more serious (as serious as a frog’s face can get).
+            “It’s very important that you tell me exactly what you told Ream.
+            Can you do that?” She asked. “Yes. I, well… I accidentally told him
+            that you and I spoke. I’m sorry,” I said, and meant it. “That’s all
+            right," Deli said. “It’s not your fault.” “Then he asked why you
+            came to talk to me… Why did you come to talk to me?” I asked. “Don’t
+            worry about that now," she said. "What did you tell him?” “I told
+            him that Soy and I caught you by accident in the forrest, and that
+            you were angry about it,” I answered. “Brilliant!” she said. "It
+            probably won’t hold him off for long, but it might confuse him. Then
+            what happened?” “Then my mom saw that he had upset me and kicked him
+            out straight away," I told Deli. “Oh, she did wonderfully! Your mom
+            is a strong one, you know,” she said. I wanted to know how she would
+            know that, but there were other things that I wanted to know more.
+            “Who is he?” I asked. “That,” she said with a deep breath, “is a
+            complicated answer.” “He’s an alien, isn’t he?” asked Soy in an
+            excited voice. “No, he’s not an alien,” Deli replied, but in a way
+            that didn't make Soy feel silly for asking. It made me like her a
+            bit more. “Can you tell us who he is then?” I asked. Deli paused for
+            a while before answering. “He’s a dragon,” she said. I wasn’t sure
+            how to respond. I thought the word must mean something different
+            than the one I knew. “Technically, he’s the King of the Dragons,”
+            she added. Soy rolled his eyes. “Thanks for clearing that up,” he
+            said, “I was going to guess unicorn.” Deli couldn’t see his eye
+            roll, but Soy’s tone made it clear that he thought she was
+            delusional. “You mean like… a dragon-dragon?” I asked. “Wait, maybe
+            she meant dragonfly,” interjected Soy, “like this guy Ream must be
+            the dreaded King of the Dragonflies!” Deli wasn’t amused. “I mean
+            dragons!” she said firmly. “As in fire-breathing, hard-scaled,
+            big-not-small dragons,” she rebutted. “But...” I said like I was
+            breaking bad news, “dragons aren’t real." Deli brought one of her
+            frog legs up to her head and smacked it. “Listen to me. There are
+            things in this world that we don’t know, until we do,” she said. It
+            was a good point, and it was made by a talking frog. If we were
+            arguing in a courtroom, that would have been her “Exhibit A”. “Okay,
+            fair enough. But if dragons are real, then why hasn’t anybody ever
+            talked about them before?” I asked. “They have. You can read about
+            them in hundreds of books,” she countered. “You mean like in
+            fairytales?” asked Soy as he raised his head above the fort, trying
+            to peek in. Before Deli could say another word, a hand hit the table
+            and started tapping its nails. Soy and I froze. Deli tucked herself
+            back under the cover of the fort as far as she could go. “The bell
+            has rung, boys,” said Miss Weaver. “Lunch is over, and Principal
+            Lance would like to see you.” I had completely forgotten about the
+            bell, on account of the existence of dragons. Miss Weaver was not in
+            a good mood. She always got that way when it was her turn to
+            chaperone the lunch room. Probably because it cut into her shoulder
+            pad naps. "We’re not done with our lunches, Miss Weaver,” I said as
+            politely as I could. “This looks more like play time than lunch! I
+            can’t have you building houses out of food,” she said, struggling to
+            find a reason, “because... because then everyone would want to do
+            it!” Soy was nodding in agreement. “It’s true. I’m already jealous
+            of yours,” he admitted. Suddenly, Miss Weaver was walking away to
+            grab one of the garbage cans at the other end of the table. “Deli!”
+            I whisper-shouted, “she’s bringing a garbage can. You’ve gotta
+            hide!” Without a word, Deli leapt forward. A split-second later Miss
+            Weaver turned around and dragged the trash can over to us. She used
+            one arm to push all of our food into the can. That put Soy in a
+            worse mood than Miss Weaver. His soft taco lunch was gone forever.
+            Never to be eaten. “Get moving. Don’t keep Principal Lance waiting,”
+            said Miss Weaver. At that moment, I didn’t care about the principal
+            or Miss Weaver. I cared about dragons, and the frog named Deli
+            hiding inside my shirt.
+          </p>
+        </section>
+        <section id="ch6" class="story-section">
+          <h3>Chapter Six: Bathroom Break</h3>
+          <p>
+            It’s hard to imagine a better principal than Principal Lance. He had
+            grey hair down to his shoulders, even though he was bald in the
+            front. He was the oldest person at Stagwood, but he didn’t act like
+            it. I had never heard anyone say a bad word about him, and I
+            wouldn’t have either. Every year, on my birthday, he called me into
+            his office and gave me a candy bar. I know he did the same for Soy
+            (who usually finished his before he got back to the class and showed
+            up with chocolate all over his face), and probably everyone else in
+            my class. Still, he had a way of making me feel like I was more than
+            some kid. Principal Lance’s office was small and crowded, but
+            friendly. He had stacks and stacks of dusty books that looked like
+            they were hundreds of years old. I heard that a girl once sneezed on
+            one of them by accident, and it blew away in pieces. The way the
+            story goes, Principal Lance laughed so hard that he forgot why he
+            had sent for her. But, as Soy and I walked into his office, it
+            seemed less friendly than usual. Miss Weaver gave a small awkward
+            bow and left us. As it turned out, Principal Lance wasn’t alone.
+            What I saw first in the chair next to us was a yellowish-gold
+            bowtie, and then the large grin of Mr. Ream. My stomach dropped.
+            “Have a seat, kids,” said Principal Lance. “You’ve done nothing
+            wrong, but Mr. Ream has insisted that he speak with you. And I
+            insisted on being present. And so, with all this insisting going on,
+            here we are!” I always liked the way that Principal Lance explained
+            things. Deli moved ever-so-slightly inside my shirt and I adjusted
+            my posture without thinking. Ream’s eyes shot towards me and
+            narrowed. I had expected him to speak to me first, but he turned to
+            Soy with a smile instead. “I don’t believe we’ve met. Hello, Soy. My
+            name is Mr. Ream,” he said. “Hello. My name is Soy,” said Soy. “Yes…
+            as I said, hello, Soy,” said Ream, already losing patience. Soy had
+            a knack for making people lose their patience faster than anyone I’d
+            ever met. My dad called it “impressive”, but my mom preferred not to
+            talk about it. “Hello,” said Soy a second time. “Soy, do you know
+            why I’m here?” asked Ream. “No. Do you know why I’m here?” Soy asked
+            back. Ream was about to lose his cool. He turned to Principal Lance.
+            “If you would let me speak with them alone, we could be done with
+            this much faster,” Ream said. “As I’ve told you, if you’d like to
+            speak with my students, you’ll do it with me present,” said
+            Principal Lance. “I’m here as a representative of the school board,”
+            Ream said sternly. “And I am here as caretaker to these children.
+            Unless you are their parent or guardian, you may not speak to them
+            without me present,” Principal Lance said even more sternly. Soy’s
+            face was already covered in chocolate from a small bowl that
+            Principal Lance had left unguarded. Ream looked over at Soy,
+            shuddering at the thought of being his parent or guardian. “This
+            will not be brought up in front of the children again,” finished
+            Principal Lance. “Very well,” resigned Ream. “Soy, I need to know if
+            you’ve noticed anything unusual in the past couple of days.” Their
+            conversation was starting just like mine had, and that got me
+            worried. The longer Ream questioned Soy or me, the more chances we
+            would have to slip up again, even with Principal Lance there. I
+            could still feel Deli inside my shirt, and I didn’t want to think
+            about what would happen if Ream got his hands on her. Or, if we
+            believed Deli, his claws. “Sir, may I go to the bathroom?” I blurted
+            out. “Of course,” said Principal Lance. Ream gave the slightest hint
+            of a smile. He relished the idea of talking to Soy without me
+            around. “Um, also, I’m not allowed to go without my bathroom pal,” I
+            said. “Pardon?” said Principal Lance. "Miss Weaver told us that we
+            have to go with a bathroom pal if we want to use the bathroom. I
+            could get in a lot of trouble if she finds out that I went alone.” I
+            realized that I was learning how to think on my feet more and more
+            since meeting Deli. It wasn’t the greatest lie ever told, but I
+            hoped it would do. “Bathroom pal? Seems a little unnecessary at your
+            age. ‘Bathroom buddy’ has a nicer ring, anyway. Well, so be it. Go
+            on then, Soy,” said Principal Lance. I nudged Soy before he could
+            object. “Yeah…” said Soy, “I’d better go with him. He always gets
+            lost without me.” Soy was the one who had walked into the girls'
+            room by accident, not once, but twice that year already. But I
+            wasn’t about to argue with him. Not then, at least. “You can’t let
+            them both go.” said Mr. Ream. “What if they...” “What if they run
+            away?” interrupted Principal Lance. “Would you like me to disable
+            their getaway car, just to be safe?” he laughed. “Mr. Ream, when my
+            students need to use the restroom, they use the restroom.” He rose
+            and ushered us towards the door. “And that goes for their bathroom
+            pals, as well,” he said, giving me the tiniest wink. As we walked
+            out, I could tell that Ream was upset, but he dared not argue
+            against Principal Lance again. Ream knew that we were up to
+            something, but, luckily for us, he didn’t know what. Not-so-luckily
+            for us, neither did I. Leading us through the brightly lit hallway,
+            I didn’t stop at the nearest bathroom. Instead, I kept walking,
+            looking down at the green tiles under my feet, wondering what to do
+            next. "Where are we going?” Soy asked. “I’m not sure yet.” We passed
+            the library, then turned the corner and passed two more bathrooms:
+            one for students and one for visitors. Either one would have done if
+            I was actually looking for a bathroom. At the moment, the last place
+            I wanted us to be was somewhere that Ream expected us to be. If
+            there was a book called “Dealing with Dragons”, I was pretty sure
+            Chapter One would be: “Don’t Tell the Dragon Exactly Where You’re
+            Going then Corner Yourself”, or something like that. After turning
+            the corner to an empty hall, I stopped. If we were going to figure
+            this out, we’d need Deli’s help. “What are we supposed to do now?” I
+            whispered to Deli inside my shirt. “You need to get to your home,”
+            Deli answered, “it’s not safe here anymore.” "What’s she saying?”
+            asked Soy. "She said we need to get to my house," I told him.
+            "What’s at your house?” he asked me. "What’s at my house?” I asked
+            Deli. A mop splashed onto the floor, and my head flew up to see the
+            custodian, Mr. Salazar, staring at me. "I sometimes talk to my belly
+            button. Sometimes,” I stammered at him. “Me too,” said Soy without
+            skipping a beat. He pulled his shirt away from his body, stuck his
+            head down, and said, “Hey, little guy, come on out and say hi!”
+            Soy’s bellybutton was sometimes an innie and sometimes an outtie, so
+            I wondered if this was actually a conversation that he'd had with it
+            before. Mr. Salazar shook his head, and continued mopping in the
+            other direction. I didn’t want to risk running into anyone else, so
+            we snuck into the empty auditorium across the hall. When I got
+            inside, I remembered that there was an exit behind the stage that
+            would lead us straight into the woods. During play rehearsals, when
+            the auditorium got too hot, they opened the door and let the breeze
+            in. “No sense wasting money on air conditioning,” Miss Weaver would
+            say. She was the self-appointed director every year since she, “knew
+            how to deal with stars.” I was pretty familiar with the stage area.
+            Not only had I been the (first actually) Weeping Willow, I had also
+            been a stagehand. Soy knew a little about the stage, too. He had
+            tried out for the lead once, but was given the role of a crocodile
+            instead. Despite that, he ended up being mentioned in every single
+            review, although indirectly. “Was the crocodile supposed to talk?”,
+            and “Why did it have an accent?” were two of his favorites. Now, the
+            stage exit was our best shot at escaping without being seen. “This
+            way,” I said, hurrying down the side aisle. The set for the next
+            play was still being built. There was a fake forest, and a small hut
+            with pieces of wood scattered all around it. I hadn’t paid attention
+            to what the production was, since deciding not to try out again. Soy
+            had gotten a lifetime ban* for his crocodile performance and it
+            wouldn’t have been much fun without him. *Soy had told me that he
+            outgrew the theater. It wasn’t until I saw “BANNED FROM THE THEATER”
+            posters with his face on them that I found out the truth. I let Deli
+            out onto the stage, and then Soy and I hopped up after her. The
+            glowing red exit sign was in sight when we passed the hut, but a
+            loud noise from the front of the auditorium stopped us in our
+            tracks. “Get down!” yelled Deli. We crouched behind the flat wooden
+            hut. Deli instinctively crouched too, which I thought was strange.
+            Then I saw the terrible news for myself through a window in the hut.
+            It was Ream, and he was being escorted down the center aisle by Mr.
+            Salazar. “They came in here. They were acting all odd, talking to
+            their tummies,” said Mr. Salazar. “Hmm, I see. Thank you, that will
+            be all,” Ream said with a wave of his hand. “Who did you say you
+            worked for again?” asked the custodian. “The school board. The one
+            that decides your salary,” replied Ream as he strode down the aisle
+            towards us. Mr. Salazar mumbled something I couldn’t hear and left
+            the auditorium. Ream was looking down each row of seats as he
+            approached. When he was halfway down, he started speaking. “I know
+            that you’re in here,” he said. “Is he talking to us?” whispered Soy.
+            “We need to get out of here!” said Deli. “He’ll see us if we run for
+            the exit,” I said. “Okay, then… we need to find a way to make him
+            angry!” she whispered. "If he really is a dragon, is that such a
+            good idea?’ asked Soy. “It’s the only way. Trust me,” said Deli. I
+            looked around the set. I’d never set out to make an adult angry
+            before (especially one that worked for the school), but this was
+            cause for an exception. My eyes settled on a handwritten sign that I
+            had seen many times before, attached to the switch beside us. It
+            read: DO NOT TOUCH. "I know how,” I said shakily, “but he’ll need to
+            get closer.” “Not a problem,” whispered Soy. Ream vaulted up onto
+            the stage, apparently finished searching the seats. He was the
+            tallest person I’d ever seen. If we didn’t do something soon, he
+            would find us in seconds. “I knew he was hiding something. You’ve
+            been following these two for a weeks now, haven’t you Delilah? Have
+            you finally found him?” Ream asked with a villainous grin. Soy was
+            about to ask a question, but Deli quieted him with one look. Ream
+            was ten feet away, right where the set began. “Whatever you’re going
+            to do, do it now!” she whispered. I lunged to the side, tore through
+            the warning sign and flipped the switch. Ream turned his head
+            towards me with a sinister snarl. There was a loud crack from above
+            the stage. A wave of red came crashing down on Ream's head, covering
+            him and the ground completely. I was in shock. The curtain had
+            fallen directly on him, just as I had planned, but seeing it happen
+            startled me. “Do you think I hurt him?” I asked. I approached the
+            pile slowly, but Deli jumped in front. “No! We have to go now!” she
+            exclaimed. The pile began to rise from the center. It kept growing
+            until it almost reached the ceiling. In a burst, the curtain was
+            split in two by sharp claws. There, standing in front of us, was the
+            King of the Dragons.
+          </p>
+        </section>
+        <section id="ch7" class="story-section">
+          <h3>Chapter Seven: Dragon Breath</h3>
+          <p>
+            “HOW DARE YOU!” said the dragon in a booming voice. His scales were
+            bright yellow and shiny (almost glistening). His wings expanded and
+            blocked out the rest of the auditorium. He took a step forward and I
+            felt the stage shake beneath us. He was more terrifying than any
+            dragon I had ever seen in drawings. His head alone was larger than
+            my whole body. Ream breathed a heavy breath and then let out a puff
+            of steam that blew over me and Deli. Soy was still tucked down
+            behind the hut, but I knew he felt it too. "Go!” yelled Deli as she
+            jumped between my legs to lead the way. The three of us sprinted
+            toward the exit door. Soy charged through first, and as Deli and I
+            ran behind him, I felt more of the steam. This time it was much
+            hotter. I slammed the door shut behind us and we ran as fast as we
+            could to the tree line. We kept running until the school was out of
+            sight. We stumbled over logs and under branches. Soy and I both fell
+            at least twice, but Deli seemed to weave through the trees perfectly
+            with every jump. When we were deep in the woods, Deli finally told
+            us that it was okay to walk for a minute. “He’ll have to hide in the
+            auditorium until he can take human form again. It takes much more
+            effort to build a disguise than to let your true form show,” she
+            explained. “That was a DRAGON!” yelled Soy, catching his breath. “I
+            don’t understand what just happened,” I muttered. Deli replied,
+            “Listen boys, I know this is a lot to take in, but it’s time that
+            you started believing me. It will make this a lot easier." Not
+            running anymore had helped me to calm down and think a little more
+            clearly. “Did you know that he was going to do that? Change like
+            that?” I asked. “I was counting on it,” she said. “That was pretty
+            risky, don’t you think?” Soy asked angrily. “Especially since he
+            would’ve passed right over you and gone for the main course!” We
+            found the worn dirt path that led to my neighborhood. It was quiet
+            in the woods, except for a few birds chirping overhead in a strange
+            whistle. “What happened when you flicked that switch?” Deli asked
+            me. “That curtain’s been broken for two years. Miss Weaver told Mr.
+            Salazar to fix it, but he just put up a sign instead. She doesn’t
+            mind because without a curtain falling she can bow as many times as
+            she wants to when the play is over.” “Miss Weaver finally did
+            something right, then,” said Deli. I stopped in my tracks. “How is
+            it that you know Miss Weaver?” I asked. “And what did Ream mean back
+            there when he asked you if you’ve found ‘him’?” Soy stopped walking,
+            too. Deli replied, “Okay, I’ll explain. But keep walking. We still
+            need to get to your house, and it’s another five minutes away.” I
+            almost asked how she knew that, but decided not to bother. She
+            continued, “I’ve been watching Stagwood for a long time. My job was
+            to find the hero before Ream did.” “What do you mean ‘the hero’?” I
+            asked. “About twelve years ago, a hero was born here in Stagwood,”
+            she answered. “I was born in Stagwood twelve years ago!” said Soy.
+            “Yes, I know,” Deli responded. I could feel her looking at me as she
+            spoke, but I got real interested in the colorful leaves at my feet
+            instead. “Do you know who the hero is?” I stared harder at the
+            fallen leaves. “We know that it’s a boy,” she said. “Well, duh,”
+            interrupted Soy with a proud smile, “aren’t most heroes?” “Actually,
+            no. About 51% of heroes are female and 5% are non-binary. The males
+            just seem to brag a lot more about it,” Deli explained with a
+            smaller, but louder smile. “Yeah, well…” Soy sometimes started a
+            sentence without knowing how to end it. “Go on,” he said. “As I
+            mentioned, we know that he was born here in Stagwood, and we also
+            know that it was in the summer,” she answered. “Right, and I was
+            born in June. I think we’ve decided that it’s me,” said Soy. “And
+            when were you born?” she asked me. My stare pierced the leaves and
+            was well on its way to the center of the earth. “July,” I mumbled.
+            “Guys, guys, guys. It’s me,” said Soy with a hand on my shoulder,
+            “When you’re a hero, you can just… feel it.” “For years we weren’t
+            sure who the hero was, because not much else had been written about
+            him,” Deli told us. “Written? By who?” I asked. Nearby, a woodpecker
+            was knocking on a tree. I couldn’t see where it was, but Deli had
+            noticed the sound, too. “The fairies write down the stories. The
+            battles between good and evil, darkness and light, and magic and
+            sorcery are all found in the fairytales,” she said. “Fairies?” I
+            asked, looking at Deli. “Of course.” she said. “That’s why they’re
+            called fairytales. Fairy’s tales. Who did you think wrote them?”
+            “People!” answered Soy. Deli responded, “People can’t write the way
+            that fairies do. Fairies are able to be places without being seen,
+            and to know what is happening as it happens. They are the first and
+            true storytellers.” “Wait, are you saying… those stories are real?”
+            I thought out loud. “Yes,” said Deli, “as I was trying to tell you
+            before, the creatures you’ve read about are real, and so are their
+            adventures. And the hero of this story has the most important
+            adventure of all ahead of them.” "So what is it that the hero has to
+            do? I should probably know before I get started with my
+            heroicalisms,” Soy boasted. “Heroics.” I corrected. “And this
+            adventure sounds kind of dangerous.” Deli’s eyes became serious
+            behind her glasses. “Yes. He must face the gravest of foes.” Soy had
+            lost his smile. He lowered his eyes, choosing rocks to stare at
+            instead of leaves. “Foe, like an evil gnome?” “Afraid not. More like
+            a dragon," she replied. Soy and I looked at each other. “You mean
+            Ream? He’s part of the fairytale?” I asked. Deli nodded. “Perhaps he
+            wasn’t always meant to be, but he is now.” She looked at the trees
+            above us. “Guys, I’ve thought a lot about it, and I don’t think that
+            I’m the hero,” said Soy definitively. Deli smiled. “It’s all right,
+            Soy,” she said. "After years of searching, I believe I’ve found
+            him.” “And who is it?” asked Soy. Deli shot a glance behind us
+            towards the path. “There’s no time for that now,” she said. “Ream
+            has spies all over these woods and we’ve taken too long. Unless my
+            ears are deceiving me, they’re getting closer. It’s time to get
+            inside.” Deli sprinted ahead with long jumps. Soy whispered in my
+            ear, “Okay, maybe they do have a neck, but now she’s talking about
+            ears? Seriously, Deli has no idea how to frog.”
+          </p>
+        </section>
+        <section id="ch8" class="story-section">
+          <h3>Chapter Eight: Launch</h3>
+          <p>
+            We ran the rest of the way to my house, which didn’t take more than
+            a minute. Once we were inside, Soy started to make a snack from the
+            fridge. This was despite the fact that ever since the “Midnight
+            Sleepover Snack Incident of 2012”, Soy was only allowed to take food
+            from a special drawer labeled: FOOD THIEF. My mom had woken up that
+            fateful morning to find our kitchen in shambles. At first she blamed
+            my dad, then what she estimated must have been fifteen raccoons, and
+            then, finally, Soy. He was sprawled out on a pile of containers and
+            wrappers (and not nearly enough napkins) when my mother came for
+            him. “Worth it,” was all he had the energy to say. Afterwards, my
+            parents and Soy’s made an arrangement to give Soy his own drawer and
+            only stock healthy food inside. That’s also the reason that I never
+            once saw him open it. Sometimes I ate from it to help cover for him.
+            “Soy, now’s not the time for food,” I said, shutting the fridge.
+            “No, it’s all right,” said Deli. "Soy, I want you to gather as much
+            food as you can carry inside both of your backpacks and then bring
+            them upstairs. Anything you want, okay?” Soy was too shocked to
+            speak. It was like she had just asked if he would mind testing every
+            toy in the toy store. He nodded (and drooled a little). I picked up
+            Deli and ran up the stairs to my room. “Okay, we’re here. Now what?”
+            I asked. “Now we get ready for liftoff,” she said. “Open that window
+            as far as it will go.” “Got it,” I said. I ran over to the window
+            across from my bed and dresser, pulled up the blinds and lifted the
+            glass as high as I could manage. “That won’t do it,” she told me,
+            “get it higher.” I used a baseball bat to get an extra two feet and
+            built a base out of three books and an empty glass to hold it up.
+            Deli gave me a little frog nod. I ran back over to her and asked,
+            “What else do you need for, wait… liftoff?” Soy had to drag the
+            backpacks into my room. By the time he got to us, his smile looked
+            like it hurt. “Great work, Soy!” Deli said. “Now lift them up onto
+            the bed.” As Soy heaved the bags up one at a time, I heard crinkles
+            and clinking and sloshing. My guess was that Soy must’ve taken
+            absolutely everything in the kitchen except for the contents of his
+            drawer. "Do you have a smartphone?" Deli asked me. I opened my desk
+            drawer and pulled out a dark blue smartphone. It was a birthday gift
+            from my mom. The cover was custom-made with a picture of me at three
+            years old with spaghetti all over my face. I was pretty positive she
+            had glued it on. Even though I had the phone, my parents didn’t
+            really let me use it much. They told me it was only for emergencies,
+            and they made sure to check the bill every month. On top of that,
+            they looked at my text message history every week, just to be sure I
+            wasn’t using it improperly. Once, I used it to vote for my favorite
+            singer on a reality show. When my parents found out, they grounded
+            me for three weeks. They let me off the hook after two weeks, but I
+            never got to see the finale. “Now, hop on the bed,” said Deli. All
+            three of us sat in a row facing the window, with Soy in the back
+            with our bags, Deli in the center, and me at the foot of the bed.
+            “What do we do now?” Soy asked. “We’ve got to fly this bed out of
+            the room,” she answered. Soy was silent for a moment. “I decided I’m
+            not asking any more questions,” he said. “How are you going to make
+            a bed fly?” I asked her. “I won’t,” she said, “you will.” “Me?” I
+            asked with a squeak. “But I’m… I can’t even drive yet!” “Listen,
+            your bed already has the magic that you need to make it fly,” she
+            explained. “I’ve slept in this bed every night, and it’s never once
+            flown,” I rebutted quickly, before Soy could accuse me of holding
+            out on him. Deli explained, “There is a magic in the stories your
+            parents read to you when you were younger, and the ones you read to
+            yourself. It’s a form of magic called lore. Most of it goes to you
+            and helps fuel your dreams. Some of it, though, falls around you,
+            building up inside your bed.” Soy was staring at her blankly. She
+            continued, "Imagine a single flower in a field of dry grass. If you
+            watered that flower every single day, not only would the flower
+            bloom and grow, but the grass surrounding it would become green and
+            strong, as well. Your bed has been sprinkled with lore, growing
+            stronger every night. Now it’s time to use it.” I had never heard of
+            lore before and, from the look on his face, neither had Soy. He
+            shook his head as he opened a bag of chips. “Nope. Nope. Nope. What
+            you’re looking for is an airplane. This is a bed.” He took a bite
+            and made a loud crunch. “I do sleep on both of them, though,” he
+            said to himself. I put my hand on top of the blanket for a moment.
+            Maybe it was time that I started to trust Deli. She had warned us
+            that Mr. Ream was a dragon, and there was no denying that now. She
+            had helped us escape and had risked her own skin more than once. If
+            she said my bed could fly, maybe she was right. “Okay, what do I
+            need to do?” I inquired. “Wharffs??” Soy said with a mouth full of
+            chips. “Excellent!” Deli responded, “First things first, pick your
+            steering wheel. It can be anything you’d like.” I picked up the
+            smallest pillow on my bed. It was one that my grandfather had made
+            for me when I was little. It was dark grey with an apple tree sewn
+            onto the front of it. “Got it,” I said. “Place it in front of you,”
+            she told me. I put both my hands on the pillow in front of me,
+            acting like it was a steering wheel. Without a noise, I felt it lock
+            into place. I could rotate it around, but when I pushed or pulled it
+            too far, it snapped back into position. When I let go, it hung
+            midair. It was like it was held in place by invisible rubber bands.
+            “Whoa,” I said, turning back to Soy, “are you seeing this?” He
+            nodded with wide eyes. “That will do nicely. Items with meaning tend
+            to absorb more lore,” she told me. Soy was starting to creep up to
+            watch more closely. “Now, place your phone down,” she instructed me.
+            I put the phone down on the bed to my left, next to the steering
+            wheel, and it stuck there. The smartphone glowed orange, and the
+            screen began to change. There were all sorts of gauges and levels on
+            the screen that I had never seen before. Most prominent, were five
+            buttons: CRUISE MODE SPY MODE SQUEEZE NEVER PUSH and the largest,
+            LIFTOFF. I was so nervous and excited that I didn’t realize my mom
+            had come home until I heard the door slam shut. “What are you two
+            doing here?” she yelled upstairs. “Was it a half-day today?” She had
+            seen the books from our backpacks that were emptied onto the kitchen
+            floor when Soy made room for the food. Deli started to speak faster.
+            “Do you see the LIFTOFF button? Press it now.” I pushed the button
+            and the mattress immediately began to shake. And then, slowly, it
+            lifted itself up into the air. It was only a few inches off of the
+            frame when it stopped shaking and hovered smoothly. My face gave way
+            to an involuntary smile. Of all the things that I had seen and
+            experienced that day, this was the most amazing. We were flying! My
+            smile was cut short when we heard the sound of cabinet doors opening
+            and closing with loud bangs. “He did it again!” she yelled. “He ate
+            it all!” My mom immediately started storming up the stairs, speaking
+            to herself. “This time Soy’s going to replace everything he took!
+            How did he even… No, I don’t care how! He’s going to be punished!”
+            “We don’t have time for proper instructions,” Deli panicked. "Push
+            the brown button and tilt the steering wheel forward.” “Okay, but it
+            -” I began to say. My mom knocked angrily on my door and then
+            started to turn the knob. “There’s no time, just do it!” Deli
+            shouted. I pushed my finger down hard onto the brown button,
+            labeled: SQUEEZE. The sides of the bed shot up towards our heads,
+            wrapping us up. The door started to swing open. I had just enough
+            room to push my hands forward on the pillow. In the blink of an eye,
+            we shot straight ahead, pushed through the window, knocking the bat
+            away, and popping us out the other side as it shut. I could barely
+            hear my mom shouting when she opened the door to an empty room.
+            “Beds?!? He’s taking beds now?!”
+          </p>
+        </section>
+        <section id="ch9" class="story-section">
+          <h3>Chapter Nine: Flight of the Bed</h3>
+          <p>
+            Our house sat on forest end of Windfall Drive. There were
+            eleven-and-a-half houses on our side of the street and twelve on the
+            other. The “half” was because of a house on the opposite end of the
+            block, at the intersection with Slope Street. It was owned by two
+            elderly ladies, both named Miss Trinket. They were identical twins
+            and didn’t seem to like anyone, least of all each other. Miss
+            Trinket got her mail addressed to Windfall Drive and her sister,
+            Miss Trinket, insisted on getting her mail addressed to Slope
+            Street. According to my dad, it all started forty years ago with an
+            argument over who should mow the lawn. “Miss Trinket doesn’t think
+            she should have to do it because Miss Trinket has slightly longer
+            legs than her, and it would take her less time. However, Miss
+            Trinket thinks Miss Trinket should do it because she has a bad back
+            and Miss Trinket doesn’t. Ever since the argument started, they
+            refuse to live at the same address, so Miss Trinket changed hers to
+            Slope Street. Understand?” my dad asked. My answer was always no, no
+            matter how matter times he explained it. Sometimes their grass would
+            get so long that Soy refused to walk by. “Who knows what’s inside
+            there?!” he would say. Most likely it was just bugs and maybe
+            snakes, and Soy liked both of them. Still something about not being
+            able to see inside rubbed Soy the wrong way, so we took the long way
+            around or went through the woods instead. Besides that, there was
+            always a Miss Trinket outside on the porch waiting to get mad about
+            something. They yelled at the mailman every single day for scaring
+            their dog, Marshall. He was a small border collie with white and
+            black hair, and he was always laying down next to one of them. I
+            sometimes wondered if he could tell them apart. If animals really
+            could talk, that might have been my first question. Once a summer,
+            my dad sent me over to mow their lawn for them, secretly hoping to
+            make our side of the street an even twelve again (he said that the
+            other side of the street looked down on us). Mowing their lawn
+            didn’t make our street whole, but it did make me the only person who
+            the Trinket Twins liked. They would each make me a lemonade if it
+            was a hot day, and deliver it to me when the other one wasn’t
+            around. One of the Trinkets made hers too sweet and the other made
+            hers too tart, but when I combined them the lemonade tasted perfect.
+            The best part was that they always paid me separately, as well.
+            “Remember, I’m the nice one,” a Miss Trinket would say as she handed
+            me money. Two minutes later the other Miss Trinket would say the
+            same thing and hand me the same amount of money. I decided that they
+            were both the nice one, partly because it was true but mostly
+            because I had no way of picking. Flying on my bed, we rocketed down
+            the middle of Windfall Drive, past twelve houses to our left, and
+            eleven and a half to our right. Luckily for us, there was only one
+            person outside that day, and it was a Miss Trinket, with Marshall by
+            her side. She was sitting on her porch, looking out over a foot of
+            grass with a lemonade in her hand, either too sweet or too tart.
+            Marshall lifted his head and wagged his tail as he looked up. Miss
+            Trinket gave me a friendly smile and wave as we zipped by her. I
+            waved back as best as I could from the smushed bed. She put a finger
+            over her mouth to tell me that she knew how to keep a secret, and
+            gave a wink. Say what you will about a Miss Trinket, but they’re a
+            pretty good person to have on your side when you’re flying down the
+            street on a magic bed and don’t want it getting back to your mom.
+            Flying was like nothing I’d ever felt before. It was like being on a
+            roller coaster that jumped its tracks and decided to explore. My
+            excitement changed to worry when I spotted the bookstore getting
+            closer and closer. I’d forgotten that my street ended abruptly at
+            Finnegan's Books, and we were running out of road. It looked like a
+            house, but it was one story taller than all the others. “Press the
+            button again!” shouted Deli from behind me. I found the smartphone,
+            at eye level now, but it was too close to my face to see. I shimmied
+            and nudged my elbows until I could just make out the words. The
+            brown button now read: FLOPBACK. There wasn’t a second to spare as I
+            pushed it. The mattress flattened out in an instant. I lifted the
+            pillow steering wheel slightly, now that it was moving more easily,
+            and we shot up higher. The bookstore was passing safely below us
+            when Soy spoke. “How are you so good at steering?” he asked me. “I
+            don’t know,” I said, looking back. “I’m just doing what feels
+            right.” Deli seemed to be smiling, but it can be hard to tell
+            sometimes with frogs. The sky was clear blue as far as I could see.
+            I saw the wind blowing crumbs off of Soy’s shirt. We were flying
+            faster and higher by the second. “Keep climbing,” said Deli. I
+            steered the bed upward until I could see all of Stagwood Forest
+            below us. To the west, it thinned out and faded into the slope of
+            Saltridge Hills. The forest was thicker to our right, where it
+            spread until hitting Merrywater Creek. I decided to test out the bed
+            a little more. Better to learn how to fly it when there was nothing
+            else around. I turned the pillow to the right, and the whole bed
+            started to fly right. I turned the pillow slightly left, and we
+            shifted back. When I pushed forward, the bed sped up and the wind
+            blew through my hair, making my cheeks flap. I pulled towards me,
+            and we slowed down, which made the bed begin to dip. Lifting and
+            pushing and forward, we floated right back up. I was so intent on
+            learning that I barely felt the tap on my shoulder. When I turned
+            around, I saw that Soy’s face had turned green, and it looked like
+            he was about to throw up. “I’m starting to get car sick,” he said.
+            “This isn’t a car,” reminded Deli. Soy didn’t have time for a
+            rebuttal. He got sick over the side of the bed. I concentrated on
+            keeping the bed straight from then on. “You okay?” I shouted, so he
+            could hear me over his vomiting. A few moments later he was laying
+            back on the bed. “You can’t zigzag around like that!” he scolded me.
+            “I almost fell off the bed!” “I’m sorry, Soy,” I answered. I felt
+            pretty bad about making him sick, but it felt much worse to think
+            that I had endangered all of us. “Where am I supposed to be going?”
+            I asked Deli, to change the subject. She hopped over to the phone
+            and looked at the screen. I watched her leg stretch out and press
+            the button that said: CRUISE MODE. A map application came up that
+            looked like one my parents used on their phones all the time. She
+            typed out the word “PAVIDALE”, and entered it. The pillow popped out
+            of my hands and dropped, attaching itself to the bed. All of a
+            sudden, a see-through bright orange shield started to rise from all
+            sides of the bed. It locked together above our heads. We were
+            completely encased. “Luckily, your bed has more than enough lore to
+            spare for the shield, too. It will make sure that nobody falls off,”
+            Deli told us happily. “And Soy, if you need to throw up again, let
+            me know, because you don’t want the shield up when you do.” “And
+            we’re going to... Pardivale?” I blurted out. “Pavidale. Yes. Right
+            now, it’s over Iceland,” she told me. “Right now?” I asked. “Right
+            now,” she said and left it at that. “The bed knows where to go. It
+            will take care of the rest. But remember this: the shield is better
+            at keeping things in than keeping things out, so pay attention to
+            anything that might get in our path. Take back control anytime by
+            pressing the CRUISE MODE button again to turn it off.” Soy reached
+            his arms out wide and looked around. “What could we possibly hit out
+            here?” “Birds for one thing, planes for another… or dark clouds.
+            Those would be the worst of all,” she answered gravely. “What’s so
+            bad about dark clouds?” I asked Deli. I had a feeling that we
+            wouldn’t like her answer. “Dark clouds can be a source of a magic
+            that we call rile. Rile is the opposite of lore. It fuels
+            nightmares, and it gives the worst kind of creatures their magic.
+            There’s no telling what we’d find inside if we passed through a
+            cloud with rile,” she said. “Okay,” I interjected, “but we learned
+            in school that clouds are just water vapor. And that they’re white
+            because of something to do with how they scatter light.” “We learned
+            that?” Soy asked. “And that dark clouds, or rain clouds, are only
+            dark because they have more water inside,” I finished. “When did we
+            learn that?!” Soy questioned. “Last week. That’s why you should pay
+            better attention in class sometimes,” I responded proudly. “And you
+            looked out the window, saw a frog with glasses, and have us flying
+            away from a dragon on your bed. That’s why you should pay attention
+            in class." Soy must’ve been saving that one up. “That’s how most
+            clouds work,” said Deli, “but these clouds are different. They don’t
+            operate by the same rules, just like a dream doesn’t operate by the
+            same rules as the real world. Lore and rile are stronger than you
+            can possibly imagine.” “How do we know a dark magic cloud from a
+            regular one?” I asked. “Magic clouds take the shape of something
+            unusual. Extraordinary even,” she answered. Soy and I both looked
+            around the sky. There were no clouds around with interesting shapes.
+            And I still had more questions. “Deli, if there are clouds with rile
+            inside, does that mean that there are clouds with lore inside too?”
+            Deli smiled back at me. “That is an excellent question,” she said.
+            The bed dipped a few feet, riding on an air current that was
+            invisible to me. “But I don’t have to tell you,” she said, lying
+            back, “because you’re going to find out soon enough.” Deli took over
+            a little while later, patrolling the sky until the sun began to set.
+            She told Soy and me to get some sleep while we could, so we’d be
+            rested. I tried to remember whether frogs were nocturnal or not.
+            Then I wondered whether it mattered, since Deli said she wasn’t a
+            real frog. Those were my last thoughts before drifting off to sleep.
+            I hadn’t had a nightmare in a long time, but that night I did. I
+            dreamt about big red dragons who were attacking me from the sky and
+            from underground. And then I dreamt about the shape I had been
+            drawing in class when Deli appeared. I didn’t recognize what it was
+            then, and I didn’t even know why I drew it. It felt like maybe I had
+            dreamt of that shape once before, but I couldn’t be sure. Then the
+            shape was floating right above me, but just as I reached out to grab
+            it, Deli woke me. She thought she had seen something following
+            behind us. After we looked more closely, we decided that it was
+            nothing. “Probably just a plane passing by,” she concluded. I went
+            back to sleep easily. The rest of the night I dreamt of flying
+            around the world on top of an enormous marshmallow. It was much
+            nicer than the dragon dream. By the time the sun rose, we were
+            almost there. I didn’t let on to Deli and Soy, but I knew almost
+            nothing about Iceland. When we first caught a glimpse of it, I
+            couldn’t believe my eyes. I thought it was the most amazing place
+            that I had ever seen. There were big green mountains and hills with
+            snow on top. We flew over huge lakes and waterfalls cut into the
+            side of rocks, and the air smelled nicer than any air from back
+            home. “This reminds me of Scotland!” Soy said. “You’ve been to
+            Scotland?” I asked him. “Yep, my whole family went when I was a
+            baby,” he replied proudly. “How can you possibly remember it then? I
+            can’t remember a thing about being a baby,” I said. He put a hand on
+            my shoulder and said, “Some babies are smarter than others.” I took
+            my position at the head of the bed, and Deli jumped up beside me.
+            “Press the CRUISE MODE button again,” she commanded. Right after I
+            pressed it, the bed started to shake. The orange shield receded
+            slowly, and I felt the temperature drop. The pillow popped up into
+            my hands, and I grabbed it, doing my best to steady the bed. Deli
+            pointed to a large cloud which was now directly in front of us. I
+            noticed that it was in an odd shape: long in the body, but still
+            thick, and there was a wisp of cloud coming out of the top. Soy
+            recognized it before I did. “It’s a whale!” he shouted. I steered
+            the bed upward, heading for the tail. We followed the curve and
+            headed up the back. I had underestimated how fast we were going and
+            we passed right over most of the body in a few seconds. We were
+            almost at the head when Deli yelled, “Drop us down!” I pulled down
+            hard on the pillow, and we broke through the top edge of the cloud,
+            just a little past the blowhole. There was a flash of white, and I
+            felt a cool wet breeze. A split-second later I felt warm, like it
+            was a spring day. The white surrounding us turned to open space, and
+            I realized that this cloud was hollow. I looked down and saw green,
+            speckled with small squares, and there were shapes moving around
+            in-between them on tan lines. There was also a blue circle. My brain
+            searched, trying to match what I was seeing with everything I knew
+            about clouds. But it was somewhere else in my head that I found the
+            answer. What I saw reminded me of a map. I was looking at a village.
+            We were falling faster and longer than I’d ever fallen before. My
+            stomach felt like it was inside my throat. I tried yanking up on the
+            pillow, but it was not responding to my touch; it felt like there
+            was something stronger controlling it. As we got closer to the
+            bottom, lights flew up from below us and began whizzing by the bed.
+            “Do something!” yelled Soy, “I don’t want to die inside a whale
+            cloud!” Deli hadn’t moved since we started dropping. She looked as
+            calm as ever. The back of the bed hit first, and then the front came
+            crashing down. To my surprise, water shot up from all sides and
+            splashed down onto my head. “Welcome to Pavidale,” Deli announced.
+          </p>
+        </section>
+        <section id="ch10" class="story-section">
+          <h3>Chapter Ten: Pavidale</h3>
+          <p>
+            The water was clear and blue, and when I peeked over the side of the
+            bed, I saw strange fish swimming below us. They had long snouts and
+            small fins, and most of them were purple and yellow. The fish were
+            sprinting through tubes made of something spongy and, every once in
+            awhile, they would jump above the water and do a flip. We were in a
+            small pond. The bank had bright emerald grass and a group of houses
+            that were the size of dog houses, but fancy as mansions. At the far
+            edge of the pond was a flat stone with dozens of glowing lights
+            dancing around on top of it. They were the same lights that had
+            flown by us during my “landing”. They were moving in a way that even
+            the best holiday lights in the world couldn’t. “Why aren’t we
+            sinking?” asked Soy. Before he got an answer, the bed started to
+            float towards the stone platform. I got a closer look at the lights
+            and realized that they weren’t just lights. They looked human, with
+            one big difference: they had wings that were more incredible than
+            any I’ve ever drawn. “Are those over-sized fireflies?” Soy asked.
+            “Those are fairies,” I said with certainty. “That’s right,” said
+            Deli, “Pavidale is the home of the fairies.” “Do you ever do or say
+            anything normal?” Soy asked. The fairies wings were glowing
+            brightly, and you could almost see right through them. Their ears
+            were tall and pointy on both sides of their long faces. Each fairy
+            had its own colorful glow, and they all hummed with excitement as we
+            drifted closer. Without a sound, the bed tapped the edge of the
+            stone. I guessed that the fairies must be about six inches tall.
+            Almost all of them were a shade of green or blue, but there were a
+            few yellow and red ones, too. There was only one pink fairy, and
+            their glow was stronger than any of the others. The pink fairy
+            stepped forward from the crowd. “Allow me to introduce, Tryt,” Deli
+            said as she gestured toward the pink fairy. “It’s a pleasure to meet
+            you, Miss Tryt,” Soy said, bowing his head low behind me. “We have
+            waited a long time for your arrival. Although, I had hoped that you
+            both would have learned some manners by now. Just because a fairy is
+            pink does not mean that it is female,” Tryt said. Soy picked his
+            head up and blushed. As we stepped off the bed onto the stone, the
+            fairies swarmed us. They fluttered and giggled, and gossiped in
+            whispers. “Come now,” commanded Tryt, “leave them be. They’ve
+            traveled far, and there’s much to do before they leave.” I wasn’t
+            ready to think about leaving anytime soon. I had never seen any
+            place like Pavidale. There was something magical and comforting and
+            serene about it. We followed Tryt down a wide tan road. He flew low
+            to the ground, at the same height as Deli’s hops. Tryt had a regal
+            look about him. He wore a magnificent clear robe that glimmered
+            (with holes in the back for his wings). Somehow he always seemed to
+            be talking down to us, even when he was speaking from a few feet
+            below. “There were some fairies here who were beginning to wonder if
+            you’d ever find him,” he said to Deli. “Yes, it’s just that, I
+            needed to be certain,” she responded meekly. After a long pause,
+            Tryt spoke again. “Of course,” he said calmly, “I knew you wouldn’t
+            fail with so much at stake.” Tryt led us to a circular building much
+            larger than the houses, with pillars and some letters above the
+            entrance that I did not recognize. As we walked through, I
+            discovered there was no roof in the center, just an open garden with
+            a round table and four chairs that looked like they were made of
+            glass. “The pond fairies will take care of your bed. Although I must
+            say, we did not expect you to land so abruptly,” he said to me.
+            “Have a seat and let us get down to business." Tryt showed each of
+            us to our chairs around the table. Soy was to my right, and Tryt was
+            to my left, with Deli straight across. I noticed that the chairs
+            were made of a hard material, but they were still comfortable. It
+            was like mine had been fitted specifically for my body. I noticed
+            that Tryt’s chair was also the perfect size for him. And so was
+            Soy’s. Deli’s chair was the only one that wasn’t the exact right
+            size. It was even taller than mine, and she had to hop up to sit on
+            it. “These are beautiful chairs, Mr. Tryt, sir. Are they made out of
+            glass, Mr. Tryt?” said Soy. “Your words are more transparent than
+            the chairs, Soy,” answered Tryt. Soy shot me a puzzled look.
+            “Transparent,” I whispered, “it means he can see right through it
+            and knows what you’re doing.” “Ah,” Soy whispered back. “… I don’t
+            like him.” “Soy, I think he can hear everything we’re saying,” I
+            responded shyly. “Oh, because of those pointy elf ears? You might be
+            right. He can probably hear Miss Weaver’s lesson from here with
+            those things.” By this point, Tryt was glaring at Soy. “Miss Weaver
+            isn’t teaching right now. She’s on a break," Tryt said. I looked at
+            Tryt and wondered if he was being serious. His face hadn’t changed
+            and, besides that, Tryt didn’t seem like the type of fairy who was
+            known for joking around. Although, to be fair, I could count the
+            number of fairies that I knew on one finger. “How do you know what
+            Miss Weaver is doing right now?” I asked. “I told you, it’s the
+            pointy ears,” whispered Soy. “A fairytale begins when a single
+            sentence appears in the Book of Lore. After that, it is up to the
+            fairies to record what happens. In order to do so, we must keep a
+            close eye on all those who may be involved in the story. For this we
+            use lore,” Tryt said. When he spoke, it wasn’t with the same
+            kindness as Deli, but it still made me feel better to know that he
+            and his fairies had been looking out for us. “And our ears aren’t
+            that pointy,” he added crisply. Soy smiled back, rubbed the top of
+            his ear and then pretended to cut his finger on a pointy edge.
+            Apparently, Soy was no longer worried about staying on Tryt’s good
+            side. Given his history, it wasn’t all that surprising. Soy never
+            got along with authority figures; it usually took less than a day
+            for him to get into a battle with one. The fastest that I ever saw
+            it happen was when he held a “special election” on the walk to
+            school and decided that he would only respond to “President Soy”
+            from then on. (I was the only other person who voted, and Soy told
+            me there was an error with my ballot). We never made it past roll
+            call that day. “So are the fairies speaking to you right now?” I
+            asked, still not understanding. Tryt pulled out a shiny yellowish
+            pen from the pocket of his robe. It had a broad tip, and the top of
+            it was an even shinier crown of gold. There was something about the
+            shape that grabbed my attention, but I couldn’t put my finger on it.
+            “Magic pens are extremely powerful. They can use lore in many ways.
+            I use the Fairytale Pen to collect information from fairies all over
+            the world. It’s how I’m able to write the stories as they happen,”
+            he explained. “This isn’t a story. It’s our lives,” Soy protested.
+            “I see no difference,” replied Tryt coldly. “How do the fairies
+            collect the information? Are they watching Miss Weaver right now?” I
+            wondered out loud. “As you know by now, magic can be used to
+            disguise. The fairies take the form of small creatures that go
+            largely unnoticed by humans,” Tryt explained. Deli hadn’t spoken in
+            a little while, and instead sat listening. I looked at her for a
+            moment and thought about what Tryt had just said. “Small creatures…
+            so, does that mean that Deli…” “No,” replied Tryt, “a fairy would
+            never choose the shape of a frog. And Deli isn’t a fairy, she’s—“
+            Deli cut him off before he could finish. “What about Ream? What’s he
+            up to now?” she asked loudly. “Ah, yes. The King of Dragons,” he
+            responded. Deli nodded, happy to have changed the subject. “He took
+            his human form again and stole a costume from the set of the school
+            play,” said Tryt. “He left the grounds twenty minutes after you
+            fled.” He was staring at Soy when he said the final word. “Where did
+            he go?” I asked. Tryt paused for a moment and looked at Deli. Deli
+            looked back at Tryt. She waited for an answer. It was clear that
+            Deli had been just as much in the dark as we were since leaving the
+            school. “He went to your house,” Tryt said to me. “My fairies tell
+            me you missed each other by less than two minutes." It took a moment
+            for the news to sink in. I looked through the fancy table at the
+            grass. A dragon. At my house. With my mom. The thought scared me
+            beyond words. And then I got angry. I stood up from the the table
+            and pressed my hands down hard. “My mom was home when we left!” I
+            shouted. “Yes,” said Tryt, “now calm down and have a seat.” “No!
+            He’s a dragon, and he could destroy my entire house with one breath
+            and my mom is inside!” I was hysterical. The tears came pouring
+            down. My view of the courtyard blended into watery colors. Deli
+            hopped onto the table and then onto my shoulder. She patted the back
+            of my head. It was so soft that I could barely feel it, but still,
+            it was nice. She spoke to me in a soothing voice. “She's all right,”
+            Deli said. Tryt spoke in a matter-of-fact way. "Ream cannot enter
+            your home. He was struck with stonegold in a battle many years ago,
+            and it cannot be removed. Stonegold is an ancient metal with a
+            strong magic. It’s the same magic that forged The Fairytale Pen,”
+            Tryt explained, gesturing towards the pen he had shown me. Through
+            my teary eyes, the shape looked even more familiar to me. “That’s
+            the same color as his bowtie,” I noticed. “Yes,” said Deli, “Ream’s
+            stonegold was in the form of a bowtie when you met him. But lore is
+            able to control stonegold, and nothing that touches it may enter
+            your home unless the fairies permit it. It’s the same magic that has
+            protected Pavidale for centuries.” Her voice faltered a bit as she
+            spoke the last words. Soy stood up now, looking just as upset as I
+            had moments ago. “What about my mom? What about my family?!” he
+            asked. “We’ve done the same for your home,” replied Tryt, “although
+            your brothers proved to be a challenge.” Soy laughed a little in
+            relief. “Ha, yeah that sounds right.” “My fairies found them
+            throwing a squirrel out of a window when they arrived,” Tryt said
+            with disgust. “They must’ve found another one,” said Soy, a bit more
+            relaxed. “Yes, well it won’t be a problem anymore. Two of my most
+            trusted fairies gave the squirrel enough lore to truly fly. When
+            your brothers tried to throw it out the window this morning, the
+            squirrel simply kept on going and flew away.” Soy smiled now. “How
+            did they take it?” he asked. “Rick accused Hank of throwing the
+            squirrel too hard. Hank accused Rick of secretly attaching it to a
+            drone. They wrestled for seven minutes, and then looked up “flying
+            squirrels” online for the next two hours on their phones,” Tryt
+            elaborated. It occurred to me then that fairies must be better with
+            details than any other creature in the world, imaginary or real
+            (although, I felt like I didn’t know which animals belonged to which
+            category anymore). “Good for the squirrel,” said Soy. “So what
+            happens if our families leave our homes?” I asked, becoming nervous
+            again. “I wouldn’t worry about that,” said Tryt, “Ream left Stagwood
+            hours ago and is headed towards us.
+          </p>
+        </section>
+        <section id="ch11" class="story-section">
+          <h3>Chapter Eleven: Fairy Eyes</h3>
+          <p>
+            “Why didn’t you tell us that right away?” Soy asked as he stood up.
+            “You did not ask,” replied Tryt, still seated. “I also didn’t ask to
+            be flown here to hang out inside a cloud with a pointy-eared jerk.
+            But here I am!” Soy shouted. Tyrt stood up too, but as a fairy, it
+            didn’t have the same dramatic effect. “Soy, let’s just calm down,” I
+            said to him. "They’re trying to help us.” “They’re the whole reason
+            we’re in this mess,” Soy said gruffly. “How do we even know we
+            belong here?” Soy had made a pretty good point. It seemed that Ream
+            was only interested in us because Deli was, and she still hadn’t
+            shown us any evidence that either Soy or I was the hero. For a
+            moment, I imagined that maybe everything was a mistake, and that we
+            might be able to end this all and go home. The thought didn’t make
+            me sad, but it didn’t make me happy either. “I believe we can answer
+            that,” said Deli from my shoulder. As she hopped onto the table in
+            front of Tryt, she spoke only to him. “It’s time to show them,” she
+            asserted. Tryt’s face told me that he wasn’t thrilled about the
+            idea. He wore the same expression that I had when my mom insisted
+            that I do my homework right when I got home. I knew that she was
+            right, and that it wasn’t her fault she was right, but I still
+            didn’t like it. Tryt raised one of his pink fluorescent wings and
+            motioned some fairies over, using it like an arm. Four fairies came
+            flying in from the side of the courtyard, opposite from where we
+            entered. They were carrying a large dark brown book. These fairies
+            had on a kind of medieval armor made from the same glass as the
+            chairs and table. The book they were carrying was thicker than a
+            dictionary and wider. It was the kind of book that Soy would have
+            openly protested if we had been assigned to read it for our class.
+            He once protested that making kids read anything over one hundred
+            pages was technically illegal, but he never found the proof to
+            support it. Despite the size, it still seemed that the book was
+            heavier than it looked, since the fairies were out of breath by the
+            time they put it down on the table. Tryt shooed them away with his
+            wing, and they disappeared straight up and out of the courtyard.
+            When the fairies left, Soy and I stood up at the same time to
+            inspect the book. It was a dusty, rundown book. But something about
+            it was beautiful. There were no words on the cover, and it was hard
+            to say whether they had rubbed off or they were just never there at
+            all. A buckle with a lock ran horizontally across, made of the
+            strange yellowish-gold that I now knew. “Stonegold?” I asked. “Yes,”
+            said Tryt, “only a magic pen may write in the Book of Lore, but it
+            does not hurt to be safe.” “Why would anybody want to mess with the
+            book?” asked Soy. “The Book of Lore chronicles every fairytale
+            throughout history. Changing them would change the fate of the
+            world,” answered Tryt indignantly. Soy didn’t bother responding this
+            time. All four of us gathered closer, hovering over the book as Tryt
+            held up his shiny pen. Without a word, he turned it over, placed the
+            crown top inside the stonegold lock and turned it. The buckle
+            surrendered, opening up with a low hiss. I thought the pages smelled
+            like pine trees, but didn’t say it out loud. Tryt began flipping
+            through the book and it was hard to see the words. Whenever I did
+            catch a glimpse, the writing was hard to focus on at first, but then
+            got more clear. The words were written in fancy, old looking
+            letters. Soy was poking his head even closer. “It’s in English,” he
+            said, “I thought it might be in fairy or elvish, or something weird
+            like that.” Tryt glanced at Deli, then back to the page. It was
+            obvious from his voice that he was agitated. “It’s not in English.
+            The fairytales in the Book of Lore appear in the first language of
+            whomever is reading it,” he said. “That’s English,” said Soy,
+            pointing at the book. “Soy, to you it is in English, but to someone
+            else it may be in French or German,” said Deli. “If it was in French
+            of German, I wouldn’t be able to read it,” Soy explained simply, “so
+            that’s how I know it’s in English.” Tryt let out an un-fairylike
+            grunt and continued flipping through the pages while he spoke. “The
+            characters in these stories had their fates sealed by the outcomes
+            written here. But there is one fairytale that remains unique. Ream’s
+            first fairytale.” “He was part of a different fairytale?” I asked
+            with surprise. That seemed like a big deal to me. “Yes," Tryt
+            replied. "When a hero or heroine defeats a villain, their story and
+            their fate are sealed within this book. All the rile of those who
+            were defeated, all of their magic, is confined within the book so
+            that they may never use it against the world again. And every
+            villain inside the Book of Lore was defeated, save one." “Ream,” I
+            said. “Yes,” replied Deli. “Instead of defeat, his tale ended with
+            an escape. That is why he was able to hold onto his rile.” “He was
+            injured. Pierced with stonegold to be exact,” Tryt said as he slowed
+            his page-turning. “And once stonegold pierces you, it may never be
+            removed or covered. That is why Ream always has a piece of stonegold
+            visible, regardless of his disguise." “But nobody has explained yet
+            why he’s after us,” said Soy. “We didn’t do anything to him!”
+            “You’re not a patient child, are you, Soy?” asked Tryt in a
+            half-question. “And you don’t own a bookmark,” rebutted Soy,
+            not-at-all in the form of a question. Tryt turned one last page,
+            then covered it with his fairy hand, unleashing a slew of pink
+            sparkles that shot out to conceal the center. He spoke only to me.
+            “This… is your fairytale. And this is the reason that Ream is after
+            you. It may be the last fairytale that is ever written. All the
+            fairytales that came before it, and all the creatures inside of them
+            are at stake. It offers Ream and the forces of rile a chance to
+            change their fate.” “But, why are you calling it mine?” I asked
+            shyly. Deli looked up at me. “Because you are the hero,” she
+            replied. Tryt moved his hand, and the sparkles flew away. Written on
+            the page in a thousand languages, but in English to me, was the
+            title: The Boy and The Flying Bed. And underneath it, there was a
+            small drawing. It was the same one I had been drawing when I noticed
+            a frog staring at me from behind a window.
+          </p>
+        </section>
+        <section id="ch12" class="story-section">
+          <h3>Chapter Twelve: Plans</h3>
+          <p>
+            The drawing in the book was the same shape that I had dreamt about,
+            and I finally realized what it was. “Is that supposed to mean
+            something to me?” asked Soy. “It’s... something that I was drawing
+            that day in class when I saw Deli,” I told him. “So, you’ve seen
+            this book before?” he asked. “No, never,” I answered. “You are the
+            first humans to see it,” said Tryt solemnly. "It is a great honor
+            that I have bestowed upon you.” “Well, we deserve to be bestowed,”
+            said Soy (clearly not sure what the word meant). “So, what do the
+            rest of the pages say?” he asked. Tryt closed the book with
+            surprising strength. “All you need to know is that if you fail, the
+            consequences will be dire,” said Tryt. “Okay, but I feel like we’re
+            missing something major here,” Soy stated. “What do you mean?” asked
+            Deli. “So, Ream’s the villain and he’s the hero?” Soy asked as he
+            pointed to me. “Correct,” said Tryt. “Yes,” said Deli. “And I’m some
+            kind of expert guide who helps the hero because I am the only one
+            who can,” Soy continued. “Nobody said that,” said Tryt. “But what is
+            the point of the fairytale? What’s the thing we have to beat Ream
+            at?” Soy inquired. Soy asked the one question that I'd forgotten to
+            ask. There was always a reason for the fairytale. Sometimes a giant
+            was terrorizing a village, and sometimes a kingdom was under siege
+            by a witch, but it was always something. What was it that Ream
+            wanted? Why was there a fairytale at all? “I’m curious too,” I said,
+            “and that title doesn’t seem to help.” Deli jumped on top of the
+            book in a puff of shiny dust. Her head was low as she spoke. “Ream
+            didn’t escape his fairytale by chance. He knew things that helped
+            him. Things that he shouldn’t have known.” “Somebody helped him,
+            then?” I asked. “We believe so,” said Deli. “Some believe so,” said
+            Tryt, glaring at Deli. “What we know for sure,” she replied, “is
+            that once he escaped, he set out to find the one thing that could
+            make him more powerful.” “What is it?!” asked Soy, “Some kind of
+            magic wand?” “No,” said Tryt. Then he turned to Deli and me. “Why do
+            you let him guess so much. He’s terrible at it.” “Hey!” Soy yelled.
+            “I can still hear you. Regular-sized ears work, too.” “How would you
+            like it if I turned you into a newt?” said Tryt, staring angrily at
+            Soy. “Tryt!” exclaimed Deli. Tryt immediately got back his composure
+            and confessed, “I’m sorry. I just… he just, draws my ire.” “Yeah,
+            well you should really work on that,” said Soy. I spoke up. “It’s
+            the pen isn’t it?” Soy look at me, puzzled. “That shape in the book
+            and the shape that I was drawing in class; it’s a symbol for your
+            Fairytale Pen isn’t it?” I asked Tryt. “A pen,” Tryt answered, “but
+            not mine.” He lifted the pen up to show us more details. As he spun
+            it, I saw the stonegold shimmer and spin like it was alive. It was
+            mesmerizing. Soy had done battle with a hypnotist once at a birthday
+            party. She made the mistake of picking Soy to be the volunteer, and
+            it all went downhill from there. By the time Soy was selected, he
+            was already convinced that he could hypnotize the hypnotist. We
+            watched them try to hypnotize each other for about a half-hour. Her
+            with techniques that she had learned over the years, and him with
+            exaggerated movements and words like “abracadabra”. When she finally
+            asked him to sit down, Soy commanded her to sit down, instead. That
+            lasted another five minutes. But even Soy was entranced with the
+            spinning pen. Tryt explained as it spun, “Before time was time,
+            there was a King of the Mountain. He ruled the world along with his
+            brother, the King of the Valley, and his sister, the Queen of the
+            Sea. But the King of the Mountain wanted to rule alone. An advisor,
+            a fairy himself, told the King of the Mountain about two hidden
+            wells of legend. One held all of the good magic in the world: the
+            ancient Well of Lore. The other held all of the evil magic, known as
+            the Well of Rile. The fairy told the King of the Mountain that if he
+            could control these wells, he would become more powerful than his
+            brother and sister combined. That very day, the King of the Mountain
+            enslaved his entire kingdom, magical and non-magical creatures
+            alike, charging them all with finding the wells. It was a group of
+            eight dwarves, being the most skilled at digging, who found the
+            wells deep within a mountain.” “Eight dwarves?” I repeated. “Yes,
+            eight. Why?” Tryt inquired. “Just used to hearing seven. Please,
+            keep going,” I said. He continued, “However, the dwarves did not go
+            back and tell their king as he had commanded. Because of his
+            cruelty, the dwarves used the magic of the wells to craft two pens
+            and a book instead. The first pen was made with the most powerful
+            magic from the wells. It had the ability to create tales from
+            nothing, and make them real. This pen is known as the Author Pen. It
+            is the pen you were drawing.” “So, if you write something, it comes
+            true?” I asked. Deli nodded, then gestured for me to keep listening.
+            “Next they crafted the pen you see before you, using a strong, but
+            less powerful magic. Then the dwarves dipped a blank mining ledger
+            into the wells, creating The Book of Lore. As I have said, only
+            these two magical pens are powerful enough to write on its pages.
+            And when a story is completed within the Book of Lore, it becomes
+            known to all the kingdoms in every corner of the globe, so that the
+            world may learn from them.” I stared at the book with a new sense of
+            wonder. Tryt explained, “The dwarves used the power of the Author
+            Pen to make sure that the King of the Mountain would never find the
+            wells for himself. Unable to find them and use their magic, the king
+            was not strong enough to defeat his brother and sister. He was
+            banished, and the “Mountain and Valley” became known simply as the
+            “Land”. All of the great leaders for centuries to come were
+            descended from one of the two remaining, wise siblings.” “What
+            happened to the pens after that?” I asked. “A fairy stumbled upon
+            the dwarves at the wells. He had been hiding from the greedy king,
+            deep inside the mountain, refusing to be enslaved,” Tryt said. "The
+            dwarves decided to give the second pen to the fairy, to keep it
+            safe, and to pay for his silence. But they charged him with much
+            more than just protecting its magic. The fairy would have to be the
+            one to record the tales and would use his brethren to watch these
+            stories unfold. All would know the tales of good and evil, and the
+            pen would seal the fate of villains defeated. They dubbed this pen
+            the Fairytale Pen, and that is what it is used for to this day. This
+            is how fairies became storytellers," said Tryt with pride in his
+            voice. “This all sounds a bit...made-up-ish,” said Soy. “I assure
+            you, every word of it is true,” Tryt stated firmly. Suddenly, I
+            understood why Tryt was taking all of this so seriously. “You’re the
+            fairy in the mountain, aren’t you?” I asked. “I am,” he said. “The
+            one who was hiding?” Soy asked me, the same way that he asked me
+            about characters in movies (during the movies). “Seems like it,” I
+            whispered. Soy looked triumphant when he whispered back,
+            “Hmph...hiding.” “And the Author Pen, did they give that to you as
+            well?” I asked. Tryt shook his head. “I tried to convince the
+            dwarves to let me care for it as well, but they kept it buried in
+            the mountain. They had decided that no creature should hold both,
+            and used the pen to made it so. I am blocked from finding the wells
+            again, and their story is concealed by magic in the Book of Lore.
+            Instead, they left us with this poem engraved on the inside cover."
+            Tryt flipped to the front of the book and pointed to the grey inside
+            cover. As the words settled into English, we read: One pen we place
+            in fairy’s hands, lest history be lost. One pen we keep inside these
+            buried wells at any cost. If ever there is dire need to find the
+            Author Pen, A hero true of mind and heart will hold it once again.
+            Find the hero’s mark, and you will make the quest begin. He alone
+            can reach the wells and find the pen within. Two guides to aid: an
+            expert on the foe they soon will face, A second known for loyalty,
+            nobility, and grace. But such a heavy burden, beg the hero to
+            beware. To write more of their fate in ink, we dwarven do not dare.
+            I read the poem three times, trying my hardest to remember every
+            word. “Nobility and grace! It’s like they knew me,” said Soy. “Yes,
+            speaking of that...” said Tryt to Deli. “It’s him,” she said
+            immediately. “He’s the companion. I’ve seen the loyalty part. The
+            rest will come in time.” Tryt resigned himself and got back to us.
+            “So you see, the Author Pen was locked in the mountain and nobody
+            but the hero can get to it. That’s why we need you.” “Then there’s
+            one thing that I still don’t understand,” I interrupted. “Where’s
+            the dire need?” “What do you mean?” asked Deli. “If this hero is me,
+            then I’m the only one who can find this pen, right? So why did the
+            fairytale need to begin. Ream can’t get it without me. So, where’s
+            the urgency? Why not leave it there.” Deli’s face turned pale. Well,
+            pale green. “Ream is taking fairies.” “He’s what??” asked Soy. Tryt
+            replied with a purposeful voice. “For years now Ream has been taking
+            fairies from us. Some he converts into spies, and others… well, we
+            don’t know what’s happened to the others.” “You see, that’s why we
+            need your help!” said Deli with emotion in her voice. “If you don’t
+            get that pen and stop Ream, soon there will be no fairies left at
+            all.” The fairies’ interest at our arrival made even more sense. I
+            wasn’t just a random person to them, I was suppose to be their hero.
+            At that moment, I knew that’s who I needed to be, whether I liked it
+            or not. “Let’s not waste any more time, then. If I’m the only one
+            who can stop Ream, then I’d better get to it,” I declared. Suddenly
+            the pen glowed brighter, and Tryt started flipping through the pages
+            of the book again, settling back on the most last story. My story.
+            He scribbled down some words, but covered the rest of the page.
+            “Look at that,” Deli said looking over the page with an enormous
+            smile, "it looks like the hero has finally taken his place in the
+            story." “There it is!” shouted Soy, “There’s your name!” The line
+            read: “Within Pavidale, the meeting of the four had concluded. So
+            began Cal’s quest for the pen.”
+          </p>
+        </section>
+        <section id="ch13" class="story-section">
+          <h3>Chapter Thirteen: Road Trip</h3>
+          <p>
+            It was time to go. Still, I wanted to know as much as I could from
+            The Book of Lore. “Can we see Ream’s fairytale?” I asked politely.
+            Tryt shut the book swiftly, again. “I’m afraid not,” he answered.
+            "That story is not yet completed, and I’ve already shown you too
+            much. It’s time to go.” Deli agreed. Tryt escorted us out the back
+            of the garden. As we passed under another ornate archway, we stepped
+            onto a path made of stone. It lead us to a wooden platform near the
+            edge of the cloud. From inside, the cloud had a slightly blue color
+            to it, like a lighter shade of sky. Every once in awhile, a fairy
+            would fly in through the cloud wall onto the platform, and the spot
+            where they entered shimmered with orange for a moment. I figured
+            that this must be the right way to enter Pavidale. I felt even more
+            embarrassed that I had entered by dropping my bed into a pond. But,
+            in fairness to me, it’s not like there was a sign… On the very edge
+            of the platform, my bed was waiting, fully restored to its normal,
+            dry self. Even our backpacks were there, looking as full as ever. A
+            few fairies were still working on the bed, using instruments and
+            contraptions I had never seen before. I wished that I could inspect
+            them closer up. “Wait a second, we’re going back on the bed?” Soy
+            asked. “The bed knows where the mountain is,” Deli said. “Well,
+            there are planes and cars and boats too. And they know where things
+            are, when you tell them. It’s called GPS,” he responded. “And do you
+            know what GPS stands for?” she asked. Soy looked at me. “Global
+            positioning system,” I whispered softly. “Globule position
+            sanctity,” Soy boasted. Deli smiled. “Close enough. And to use it,
+            you need an exact location. Nobody knows where the mountain is
+            without magic. That’s why only a vessel using lore can find it.”
+            Deli hopped on the front of the bed, and I followed behind. Soy
+            climbed up slowly in protest. “Ask anyone who’s not a magical frog:
+            planes are better than beds,” he mumbled. “I told you I’m not a
+            frog,” she said. “But you haven’t told us what you are, and frog is
+            still the most obvious choice,” Soy argued. It was the same logic
+            Soy had used with me many times. When I had a secret that he wanted
+            to know, he would make a guess that was ridiculously wrong and then
+            assume it was right until I told him otherwise. It worked on me.
+            Every. Single. Time. I felt like Deli was telling the truth, that
+            she wasn’t a frog, but that didn’t mean I was any closer to knowing
+            what she was. Tryt flew to the front of the bed with impressive
+            speed. He addressed only Deli, “He doesn’t have to go with you two,
+            you know.” “He does,” she answered, “and you know that. Besides, I
+            have a feeling he’s more valuable than you think.” Tryt did a
+            graceful flip to the back of the bed. We all prepared to depart. “We
+            will return when Ream is defeated, and the pen is safe again,”
+            announced Deli. I turned around and realized that the all the
+            fairies were on the platform watching us, and there were even more
+            of them than when we first arrived. I saw young fairies flying
+            around clumsily and older fairies using their wings to hold
+            themselves upright. I had the sad thought that there used be far
+            more fairies in Pavidale, before the yellow dragon started taking
+            them… before my fairytale began. Deli started punching commands into
+            the phone, but Tryt stopped her. “That won’t be necessary,” he said.
+            “I will create a current for you to ride on. It will work with the
+            bed to take you straight there and, as long as you don’t stray, you
+            will go much faster." Deli looked at him with gratitude and bowed
+            her head. “It is important for Cal to get there without delay. If I
+            can do anything to help, I will,” he added. Tryt began to glow much
+            brighter. His face became hard to see. In fact, he started to look
+            like he was just a pink ball of light. I looked ahead at the wall of
+            the cloud. It was fascinating. A hole with an orange outline started
+            to form in front of us, shooting off sparks like a lightning storm.
+            The fairies got behind us and pushed the bed forward. As the front
+            of the bed peeked out of the cloud, I saw that there was nothing
+            below us. In a few seconds, the bed tipped down and we started to
+            plummet. The air was cold enough to sting my face. Before I could
+            get scared and without warning, an invisible river of air caught us
+            from below and quickly carried us away. I turned to see the cloud
+            one last time. The fairies were filling the hole with their faces to
+            watch us as it closed. Tryt was in front. The glow on his face began
+            to fade as the hole finally shut. Pavidale was a special place, and
+            I hoped that one day I would visit the home of the fairies again.
+            The wind was cutting through us, as I remembered that unless I
+            defeated Ream, there may be no fairies left to visit.
+          </p>
+        </section>
+        <section id="ch14" class="story-section">
+          <h3>Chapter Fourteen: Seventh Sea</h3>
+          <p>
+            The current we were riding started turning red as we got further
+            away from Pavidale. It stretched out ahead of us for what must have
+            been miles, with no end in sight. Tryt had been right about one
+            thing for sure; we were going twice as fast as we had on our way to
+            Pavidale. Deli tinkered with the phone and put the shield up so that
+            we could relax. Still, it was twenty minutes before Soy and I felt
+            comfortable enough to sit back. “So, what happens when we get to the
+            mountain?” I asked. “Truthfully, I don’t know much,” said Deli.
+            After a few minutes, she spoke again. “There are supposed to be
+            three tests that you must pass before you can find the wells.” “What
+            are they?” I asked. “I meant it when I said that I don’t know much,”
+            she answered. The bed had completely settled into the current by
+            then, and the ride was smooth. I saw land pass by to the north or
+            south… or east or west (I had gotten turned around in the cloud),
+            but mostly we flew over sea. Occasionally we would see tiny islands
+            below us. Soy asked if we could fly down and stop at the first
+            three, but Deli refused each time. “Tryt’s current won’t last
+            forever. He told us to stay on course and that’s what we’re going to
+            do,” she told Soy. “But there might be hidden treasure down there.
+            Pirates love hiding treasure on islands like that!” Soy rebutted. I
+            decided not to weigh in, until the third time. “Soy, if we find the
+            wells, defeat Ream, save the fairies, and make it out alive, I
+            promise we can come back and explore an island.” Soy stopped asking.
+            Any objection to that would mean that he doubted our return, and
+            nobody wanted to do that. The few clouds that speckled the sky
+            formed and disappeared quickly, like puffs of smoke. Later on, the
+            current took us straight inside a thin white cloud that gave me a
+            nice feeling as we flew through. There was nothing inside though,
+            not like Pavidale. I was beginning to like clouds more and more,
+            until I spotted a dark one. At first it was just a black spot in the
+            distance. We sat in awe as it grew larger and larger ahead of us.
+            Closer up, I could tell that it was actually dark grey. There was
+            flashing all over it, like a lightning storm was raging inside.
+            Eventually, it was almost all that we could see. I got a queasy
+            feeling in my stomach when I recognized the shape it had taken: a
+            ferocious ocean wave. It was a cloud filled with rile. “Um, Deli,” I
+            asked. “Can we get off the current now?” Deli jumped to the controls
+            and began pushing buttons. I didn’t notice anything change. She
+            started pushing them more frantically. Nothing happened. I tried
+            grabbing the wheel but it was glued to the bed and wouldn’t budge.
+            “What’s going on Deli?!” Soy screamed as the wall of darkness
+            loomed. It must’ve been the largest storm cloud I had ever seen. “I
+            don’t know!” Deli yelled back. “The cloud is pulling us in!” “What
+            can we do?!” I cried. But I never heard an answer. The dark cloud
+            swallowed us whole.
+          </p>
+        </section>
+        <section id="ch15" class="story-section">
+          <h3>Chapter Fifteen: Stormside</h3>
+          <p>
+            The cloud was hollow, just like Pavidale. I doubted this place had a
+            nice name of its own, or any name at all. It was empty and sad.
+            There were some deep holes among the layer of rocks that covered the
+            ground. I imagined this cloud might be home to some nasty creatures,
+            but nothing was there to greet us. The bed, it turned out, couldn’t
+            fly inside the cloud and started to dip the moment we entered. We
+            hit the ground hard and skidded to a soft stop. “It’s the rile,”
+            said Deli. "It’s too strong for the bed to work in here.” I was
+            surprised to find that I could see fairly well. The whole place was
+            lit by a dim red light coming from another small pond, just like in
+            Pavidale. But this pond looked mean and gloomy. We all sensed it was
+            probably best to whisper. “How do we get out of here? Can we push
+            the bed back out?” I asked. “It will just suck us right back in,”
+            Deli said. "We’ll need to carry the bed across to the other side.”
+            “You’re crazy!” Soy said in an angry whisper. “This looks like the
+            same place from my nightmares! And they never end well!” “What do
+            you suggest we do then?” she asked coolly. “Call up the fairies and
+            get them to pick us up with a new bed. A king-sized one this time.
+            I’ll wait here,” Soy said as he sat cross-legged and cross-armed.
+            “That’s not going to happen, Soy. There’s no way to reach them from
+            in here,” she replied. “Well, too bad, because I’m not moving. I’m
+            pretty positive that those holes are filled with monsters," Soy
+            responded. "And you’re going to get gobbled up. Gobbled. Right. Up.”
+            “Will you talk to him, please?” Deli said, turning to me. Soy was
+            pretending to chew while he stared at Deli. “OM NOM NOM NOM,” was
+            all he would say. I sat down next to him. “Soy, I know this isn’t
+            what you signed up for when you became my best friend.” He nodded
+            dramatically. “But, I need you. And those fairies need you even more
+            than I do,” I pleaded. Soy wasn’t moved. “If you walk across this
+            cloud, you’re going to get eaten by the green hog monster things in
+            those holes. And I’m not going to watch it happen.” I understood now
+            that he wasn’t just angry, he was worried. Worried for me. But my
+            mind was racing from what he had said. “Soy, how do you know what’s
+            in those holes?” I asked. “I told you, this place is just like the
+            one from the nightmare I’ve had dozens of times. And I always get
+            eaten!” he whimpered. I looked at Deli. She’d heard it too. “Soy…
+            you’re here to save us,” I said. “What?” he asked. “There’s a reason
+            you had those dreams, Soy, just like there’s a reason why my bed can
+            fly. You were always meant to be my guide. You got gobbled up in
+            those nightmares, so that we wouldn’t get gobbled up in real life.
+            You are the only one who can get us through this cloud.” He opened
+            his mouth, but before he could speak, I repeated, “The only one.” He
+            sat there for a moment, staring at the ground. Then he looked back
+            towards the cloud wall that we just passed through. Finally he let
+            out a big sigh, and rose to his feet. “Right," he said, “Cal, grab
+            the other side of the mattress, then both of you get behind me. We
+            need to move quickly. I think I may have figured the way out last
+            time.” “Got it, Soy. I trust you,” I told him. “So do I,” said Deli.
+            She jumped on the bed as we lifted it up. It wasn’t heavy, but it
+            wasn’t light. From where we stood, the far end of the cloud looked
+            at least two football fields away, but it was hard to tell. I
+            started to notice that the holes weren’t the only obstacles in our
+            way. There were bumps in the ground that looked like small hills,
+            and some tall, scraggily looking trees. It took Soy and me a minute
+            to get our steps in sync, but once we did we moved well together.
+            Soy weaved the bed in-between the holes deftly, and periodically
+            stopped to change course. He had made it clear that under no
+            circumstances should we make noise. Apparently, in his dreams,
+            making too much noise tended to get him eaten. A lot. At that
+            moment, in the dark cloud filled with rile, with monsters sleeping
+            below our feet, Soy was leading us. And he was doing it well. We
+            made it about halfway through without any trouble, but then it
+            looked like Soy was stuck. There were three large holes in front of
+            us and a few trees to our right. I spoke softly. “What is it?” I
+            asked. “I’ve seen these holes before,” he whispered back, “and I’ve
+            never gotten past them. There are hog monsters in each one. The
+            middle one has the biggest.” He turned to face me. “Bigger than a
+            truck.” Deli and I sat patiently while Soy planned our next move. He
+            motioned for me to turn the bed on its side and led us to the skinny
+            trees. As we squeezed between them, Soy and I were careful not to
+            touch a single branch. I looked closely at the lowest one and
+            realized the true danger. What I thought was a leaf wasn’t a leaf at
+            all. It was a sleeping animal. It had long claws that wrapped around
+            the branch three times, and its wings came together to form a flat
+            surface that made it resemble a humongous leaf. It wasn’t just this
+            one creature that worried me really; it was the 500 more that were
+            sleeping above it. Once we passed through the trees, we came to a
+            low, rocky hill. It was steep enough to make me tired, and Soy was
+            getting winded, too. When we got to the top, we had no choice but to
+            rest for a minute. At the far foot of the hill was another hole and
+            two more trees, larger than the batch we had just passed. It would
+            be difficult, but we could make our way through if we were careful
+            and took our time. Soy laid down on the bed while Deli took a moment
+            to take stock of how much ground we had covered. I was the only one
+            looking forward, so I was the first one to see the light. It wasn’t
+            like any other light inside the cloud. It was a dull yellow glow
+            coming from inside the hole at the bottom of the hill. But I knew
+            that it wasn’t actually yellow… it was stonegold. “Soy… Deli,” I
+            said with a tremble, “Look!” They turned in time to see Ream fly up
+            from inside the hole, spreading his wings. He had found us. I hadn’t
+            seen his full body in the school. The auditorium wasn’t large enough
+            for him to show his full form. Ream’s wings were larger than I could
+            have possibly imagined. He was the King of Dragons, and I was frozen
+            in fear. My heart beat out of my chest. My legs locked in place. I
+            felt smaller than I ever had before. Ream flapped his wings and sent
+            a tornado of wind towards us. “So, this is the hero that you send to
+            his doom?” bellowed Ream. “The boy named Cal?” He bared his teeth
+            and looked at me with a glint of gold in his eyes. “You will not
+            touch him!” shouted Deli, “You will not speak his name!” She jumped
+            in front of me, trying to shield me. She was no larger than one of
+            his claws. As a frog she could not protect me from a dragon. This
+            was not a battle that she could win. But, she did it all the same. I
+            felt like I might cry. Then, without a word, Soy stepped up next to
+            Deli, and I did. My best friend, Soy, standing between me and a
+            dragon. Ream started to laugh, like he was happy that they had.
+            “This will be easier than I thought” mocked Ream. “You have failed
+            again, Delilah. Your hero cries.” But Ream didn’t understand. There
+            are all kinds of tears. Some tears are for a sad rainy day, and some
+            are too happy for just words. Some don’t even tell you why they’re
+            there. But, then there are tears that have fight inside them. Those
+            were the tears that found me. I promised myself that we would be
+            leaving that cloud. I picked up a rock and took aim behind us. There
+            was only one hole that I wanted to hit. When I made the baseball
+            team last spring, I practiced throwing a ball against the wall every
+            day after school, and it was about to pay off. I squared my
+            shoulders and feet, and brought my arm back. Hurling the rock with
+            all my strength, I watched it fall out of sight into the hole. We
+            didn’t have to wait long. The monster came barreling out within
+            seconds. I could see why Soy had called it a hog. Its snout was long
+            and flat with pulsing nostrils, and I could see long, sharp teeth
+            even with its mouth closed. It came forward on four legs with a row
+            of spikes shooting up from the top of its back. “Yep, they’ll do
+            that,” said Soy. The creature was so mad that it spit as it stomped
+            the ground. Ream flapped his wings and flew back slightly, but not
+            in retreat. He was laughing again. “You think that a warlug will
+            save you? What do you think was in this rock hole before I got here?
+            They make for delicious meals!” he said. The warlug, a name I had
+            just learned, took a moment to look around and then charged up the
+            hill towards us. “Grab the bed and follow me!” I yelled. We started
+            down the hill as fast as we could. Ream was content to watch the
+            chase unfold. It seemed to amuse him. We were almost at the bottom
+            when the warlug reached the top of the hill. He ran straight
+            downhill at a blistering pace. When the ground leveled off, I made
+            Soy help me prop the bed up between two trees. We were careful not
+            to touch any branches. We had barely finished when the warlug closed
+            in on us. Ream knew that we couldn’t outrun it, and he smirked. I
+            looked at my two companions. “When I say so, jump to the right,” I
+            said. We hid behind the bed as the warlug charged towards us with
+            furious speed. It was ten yards away, then five. I could hear its
+            angry breath from behind the mattress. “Now!” I yelled. We jumped
+            out from behind the mattress, beyond the trees that held it up. The
+            warlug saw us and tried to change course at the last second, but it
+            was too late. Its body went sideways, and its momentum carried it
+            forward. Its body crashed into the trees, hard enough to shake them
+            to their roots. And that was exactly what we needed it to do. In a
+            single moment, every sleeping eye on the trees had opened, and the
+            winged creatures fluttered up. Over a thousand leafy creatures went
+            parading into the sky. They blocked out everything else from sight,
+            including Ream. “Let’s go,” screamed Deli. We grabbed the bed, and
+            Soy took the lead again. Without second guessing, we sprinted past
+            hole after hole. From above us, Ream let out a deafening roar. I
+            looked back for just a moment to see the creatures swarming him from
+            every angle. We were almost to the cloud’s edge when the holes ahead
+            began to come alive with noise. Warlugs were stirring inside. By the
+            time some of the hogs started rising, we had just three more holes
+            to pass. The first two were empty, but I saw a particularly spiky
+            warlug poking his head out of the last one. He saw us just as we
+            were about to pass and we only had a second to decide what to do.
+            “Jump!” shouted Soy. Soy vaulted above the warlug as it eyed me up
+            behind him. I took one step straight onto the top of its head and
+            launched myself forward, flipping onto the bed. It chomped down on
+            the empty air and let out a groan. As I landed, the mattress hit the
+            ground. The warlug’s hole had a slope of dirt on the other side that
+            led directly to the cloud’s edge. The mattress skid down bumpily.
+            Soy couldn’t outrun it and got scooped up when it hit his legs. Deli
+            was between us again. Without a sound, we slid out of the dark cloud
+            and onto the current, which had been waiting for us in the quiet
+            night sky.
+          </p>
+        </section>
+      </div>
+      <a href="#" class="back-to-top-btn" title="Back to Top"> &uarr; </a>
+    </div>
+  </body>
+</template>
