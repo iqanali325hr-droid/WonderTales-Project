@@ -742,17 +742,17 @@ body {
 
 /* Ye class aapki body par apply hogi (the-gardian-of-lord.html mein) */
 .story-page-bg {
-    background: url('../public/images/story1.webp') no-repeat center center fixed !important;
+    background: url('/images/story1.webp') no-repeat center center fixed !important;
     background-size: cover !important;
     min-height: 100vh !important;
 }
 .story-page-bg2 {
-    background: url('../public/images/story6.webp') no-repeat center center fixed !important;
+    background: url('/images/story6.webp') no-repeat center center fixed !important;
     background-size: cover !important;
     min-height: 100vh !important;
 }
 .story-page-bg3{
-     background: url('../public/images/story8.webp') no-repeat center center fixed !important;
+     background: url('/images/story8.webp') no-repeat center center fixed !important;
     background-size: cover !important;
     min-height: 100vh !important;
 }
