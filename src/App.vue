@@ -18,7 +18,7 @@ export default {
 }
 
 #body {
-    background-image: url("../public/images/castel.jpg");
+    background-image: url("/images/castel.jpg");
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
