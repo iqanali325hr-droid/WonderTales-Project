@@ -29,7 +29,8 @@ export default {
     padding: 0;
     overflow-x: hidden;
     color: var(--parchment-scroll);
-
+    min-height: 100vh; 
+    width: 100%;
 }
 .sky-zone-forbidden-forest {
     position: fixed;
