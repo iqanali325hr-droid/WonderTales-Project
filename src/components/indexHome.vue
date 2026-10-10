@@ -1,5 +1,5 @@
 <template>
-    <body id="body">
+    <div id="body">
 
     <div class="sky-zone-forbidden-forest"></div>
     <div class="flying-jharo">🧹<span class="magic-dust">✨</span></div>
@@ -346,7 +346,7 @@
         </div>
     </div>
 </footer>
-</body>
+</div>
 </template>
 <script>
 export default {
