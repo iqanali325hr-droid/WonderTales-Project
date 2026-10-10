@@ -152,7 +152,7 @@
     <!-- chracter  -->
 <div class="container magical-character-container">
     <div class="wizard-character">
-        <img src="images/harry.jpg" alt="Magical Character" class="character-img">
+        <img src="/images/harry.jpg" alt="Magical Character" class="character-img">
     </div>
 </div>
 <!--  harry potter  -->
