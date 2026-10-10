@@ -33,7 +33,7 @@
                             <div class="hp-ink-text-area">
                                 <span class="hp-drop-cap">T</span>
                                 <p class="hp-story-p">
-                                  {{ story.pages[currentPage] }}
+                                  {{ story.pages && story.pages[currentPage] ? story.pages[currentPage] : '' }}
                                 </p>
                             </div>
                             <div class="hp-page-number" @click="turnPage" style="cursor: pointer;"><span style="font-size: 1.2rem;">📖</span>- Turn Page - </div>
@@ -91,27 +91,33 @@ export default {
       currentPage: 0 // Yahan se shuruat hogi
     }
   },
- async mounted() {
-  try {
-    const id = this.$route.params.id;
-    const res = await fetch('http://localhost:3000/stories/' + id);
-    
-    if (!res.ok) throw new Error("Could not fetch the data"); // Guidelines requirement
-    
-    const data = await res.json();
-    this.story = data;
-  } catch (err) {
-    console.error("Error loading story:", err);
-    // Yahan aap ek error message state set kar sakti hain jo screen par dikhe
-  }
-},
+  async mounted() {
+    try {
+      const id = this.$route.params.id;
+      // Vercel static deployment ke liye poori db.json fetch karein
+      const res = await fetch('/db.json');
+      
+      if (!res.ok) throw new Error("Could not fetch the data"); 
+      
+      const data = await res.json();
+      const allStories = data.stories || [];
+      
+      // ID ke zariye specific story find karein
+      this.story = allStories.find(s => s.id === id);
+      
+      if (!this.story) {
+        throw new Error("Story not found");
+      }
+    } catch (err) {
+      console.error("Error loading story:", err);
+    }
+  },
   methods: {
     turnPage() {
       // Check karein ke agla safha maujood hai ya nahi
-      if (this.currentPage < this.story.pages.length - 1) {
+      if (this.story && this.story.pages && this.currentPage < this.story.pages.length - 1) {
         this.currentPage++;
       } else {
-        // Agar aakhri safha ho, toh wapas shuruat par aa jayein ya wahi rukein
         alert("story end!");
         this.currentPage = 0; 
       }
@@ -125,4 +131,3 @@ export default {
     transform: scale(1.1); /* Halka sa bada ho jayega */
     transition: 0.3s;
 }</style>
-
